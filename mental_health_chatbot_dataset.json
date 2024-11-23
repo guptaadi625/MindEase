@@ -1,0 +1,2029 @@
+[
+    {
+        "QuestionText": "I feel like I'm stuck in a rut. How can I break out of it?",
+        "Topic": "motivation",
+        "AnswerText": "Try setting new goals, even small ones. Change up your routine and take time to focus on activities you enjoy."
+    },
+    {
+        "QuestionText": "I can't stop worrying. What can I do to calm my mind?",
+        "Topic": "anxiety",
+        "AnswerText": "Practice grounding techniques, such as deep breathing and focusing on the present moment. Mindfulness and meditation can also help reduce anxiety."
+    },
+    {
+        "QuestionText": "Why do I feel like I'm never good enough?",
+        "Topic": "self-esteem",
+        "AnswerText": "Negative self-talk can be harmful. Try replacing those thoughts with positive affirmations, and remind yourself of your strengths."
+    },
+    {
+        "QuestionText": "I feel overwhelmed with everything going on in my life. How can I manage it?",
+        "Topic": "stress management",
+        "AnswerText": "Start by breaking down tasks into smaller steps. Take time for self-care, and don't be afraid to ask for help when you need it."
+    },
+    {
+        "QuestionText": "I often feel like I'm not in control of my emotions. What should I do?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Identifying triggers and practicing emotional awareness can help. Try relaxation techniques like deep breathing or progressive muscle relaxation."
+    },
+    {
+        "QuestionText": "I can't seem to stay focused for long. Any advice?",
+        "Topic": "focus",
+        "AnswerText": "Use time management techniques like the Pomodoro method. Taking breaks and organizing tasks into smaller, manageable pieces can help improve focus."
+    },
+    {
+        "QuestionText": "I feel disconnected from my friends and family. What can I do?",
+        "Topic": "loneliness",
+        "AnswerText": "Reach out to loved ones, even if it's just for a brief conversation. Engaging in social activities or joining groups that interest you can help."
+    },
+    {
+        "QuestionText": "I'm constantly comparing myself to others. How can I stop?",
+        "Topic": "self-worth",
+        "AnswerText": "Focus on your own growth and accomplishments rather than comparing yourself. Practice gratitude and embrace your unique qualities."
+    },
+    {
+        "QuestionText": "I find it hard to trust people. How can I work on it?",
+        "Topic": "trust issues",
+        "AnswerText": "Start by setting healthy boundaries and allowing yourself to build trust slowly. Communicate openly with those who respect your boundaries."
+    },
+    {
+        "QuestionText": "I'm feeling hopeless about the future. What should I do?",
+        "Topic": "depression",
+        "AnswerText": "It’s important to talk to a professional about your feelings. Try focusing on small steps you can take today to improve your situation."
+    },
+    {
+        "QuestionText": "I feel so much anxiety when I’m in social situations. What can help?",
+        "Topic": "social anxiety",
+        "AnswerText": "Gradually exposing yourself to social situations can help. Start with smaller groups, and practice grounding exercises before you interact."
+    },
+    {
+        "QuestionText": "I can't sleep at night. What are some ways to improve my sleep?",
+        "Topic": "sleep",
+        "AnswerText": "Establish a bedtime routine, avoid screen time before bed, and try relaxation techniques such as deep breathing or a warm bath."
+    },
+    {
+        "QuestionText": "How do I stay motivated to exercise when I don't feel like it?",
+        "Topic": "motivation",
+        "AnswerText": "Start with small, achievable goals. Find an exercise routine that you enjoy, and remember that any movement is beneficial."
+    },
+    {
+        "QuestionText": "I feel like I'm always running on empty. How can I recharge?",
+        "Topic": "self-care",
+        "AnswerText": "Take time for activities that relax and refresh you, such as reading, spending time in nature, or doing something creative."
+    },
+    {
+        "QuestionText": "I often feel like I'm not doing enough. How can I stop feeling this way?",
+        "Topic": "perfectionism",
+        "AnswerText": "Recognize that nobody is perfect. Set realistic expectations, focus on progress rather than perfection, and practice self-compassion."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by negative thoughts. How can I change this?",
+        "Topic": "negative thinking",
+        "AnswerText": "Challenge negative thoughts by asking yourself if they’re true. Replace them with more balanced, positive perspectives."
+    },
+    {
+        "QuestionText": "I get nervous about big changes in my life. How can I cope?",
+        "Topic": "life transitions",
+        "AnswerText": "Change can be difficult, but focusing on the potential growth that comes with it can be reassuring. Take things one step at a time."
+    },
+    {
+        "QuestionText": "I feel guilty all the time. What can I do about it?",
+        "Topic": "guilt",
+        "AnswerText": "Guilt can be a signal to make amends, but constant guilt is unproductive. Reflect on what you can learn and practice self-forgiveness."
+    },
+    {
+        "QuestionText": "Why am I so easily frustrated with people?",
+        "Topic": "anger management",
+        "AnswerText": "It might help to identify the root cause of your frustration. Try practicing patience and communicating openly with others about your feelings."
+    },
+    {
+        "QuestionText": "I feel like I can't talk to anyone about my feelings. What should I do?",
+        "Topic": "communication",
+        "AnswerText": "Consider speaking with a trusted friend or therapist. Sometimes, expressing your emotions in a journal can also be a good first step."
+    },
+    {
+        "QuestionText": "I'm always feeling anxious about my performance. How can I stop?",
+        "Topic": "performance anxiety",
+        "AnswerText": "Focusing on the process rather than the outcome can help reduce anxiety. Practicing self-compassion and managing your expectations is also key."
+    },
+    {
+        "QuestionText": "I can't seem to let go of the past. How can I move forward?",
+        "Topic": "letting go",
+        "AnswerText": "Forgiveness and self-reflection can help you let go of past hurts. It’s important to focus on what you can control in the present moment."
+    },
+    {
+        "QuestionText": "I feel like I don’t know who I am anymore. How can I reconnect with myself?",
+        "Topic": "identity",
+        "AnswerText": "Take time to explore activities you used to enjoy, and spend time reflecting on what makes you feel fulfilled. Journaling can help clarify your values."
+    },
+    {
+        "QuestionText": "I'm scared of making mistakes. How can I deal with this fear?",
+        "Topic": "fear of failure",
+        "AnswerText": "Remember that mistakes are opportunities for growth. Start by reframing mistakes as learning experiences rather than failures."
+    },
+    {
+        "QuestionText": "How can I improve my relationship with myself?",
+        "Topic": "self-love",
+        "AnswerText": "Practice self-compassion, take care of your mental and physical health, and challenge negative self-talk with positive affirmations."
+    },
+    {
+        "QuestionText": "I feel like I’m losing my sense of purpose. What can I do?",
+        "Topic": "purpose",
+        "AnswerText": "Revisit your passions and interests. Setting small, meaningful goals can help restore a sense of purpose in your life."
+    },
+    {
+        "QuestionText": "I feel so isolated from others. How can I build connections?",
+        "Topic": "social connections",
+        "AnswerText": "Engage in activities that align with your interests, and don’t be afraid to reach out to others. Building connections takes time and effort."
+    },
+    {
+        "QuestionText": "I can't stop thinking about all the things that went wrong. How can I let go?",
+        "Topic": "rumination",
+        "AnswerText": "Redirect your thoughts by focusing on the present and taking action. Practicing mindfulness or engaging in a hobby can help ease rumination."
+    },
+    {
+        "QuestionText": "I’m scared of being judged by others. How can I overcome this fear?",
+        "Topic": "social anxiety",
+        "AnswerText": "Start by challenging your fears with small steps. Remember that most people are more focused on themselves than on judging others."
+    },
+    {
+        "QuestionText": "I often feel like I'm not making any progress in life. What can I do?",
+        "Topic": "self-doubt",
+        "AnswerText": "Acknowledge small victories and track your progress. Sometimes, the journey takes longer than expected, but that doesn’t mean you’re not progressing."
+    },
+    {
+        "QuestionText": "I feel overwhelmed with work. How can I manage my time better?",
+        "Topic": "time management",
+        "AnswerText": "Prioritize tasks based on importance and deadlines. Break down large projects into smaller steps and schedule time for breaks to avoid burnout."
+    },
+    {
+        "QuestionText": "I feel too anxious to speak up in meetings. How can I overcome this?",
+        "Topic": "social anxiety",
+        "AnswerText": "Start by practicing deep breathing before the meeting and preparing your points ahead of time. You can also try speaking in smaller groups first."
+    },
+    {
+        "QuestionText": "I often feel like I’m not in control of my life. What can I do?",
+        "Topic": "control",
+        "AnswerText": "Focus on what you can control, such as your reactions and choices. Set small, achievable goals to regain a sense of control."
+    },
+    {
+        "QuestionText": "I feel like I can't get anything done. What can I do?",
+        "Topic": "motivation",
+        "AnswerText": "Start small with manageable tasks, and celebrate each accomplishment. Setting clear, achievable goals can help regain a sense of motivation."
+    },
+    {
+        "QuestionText": "How can I stop feeling so tired all the time?",
+        "Topic": "fatigue",
+        "AnswerText": "Ensure you're getting enough rest and managing stress. Regular exercise, a balanced diet, and hydration also help fight fatigue."
+    },
+    {
+        "QuestionText": "I’ve been feeling really angry lately. What should I do?",
+        "Topic": "anger",
+        "AnswerText": "Try expressing your feelings in healthy ways, such as through physical activity or creative outlets. If the anger persists, speaking to a therapist could help."
+    },
+    {
+        "QuestionText": "I often feel overwhelmed by my emotions. Any advice?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Practice mindfulness to become aware of your emotions. Journaling and talking to a trusted person can also help process your feelings."
+    },
+    {
+        "QuestionText": "What can I do when I feel like I’m not good enough?",
+        "Topic": "self-worth",
+        "AnswerText": "Recognize that everyone has moments of self-doubt. Practice positive affirmations, and seek support from loved ones or a therapist to challenge negative thoughts."
+    },
+    {
+        "QuestionText": "How do I cope with a recent loss?",
+        "Topic": "grief",
+        "AnswerText": "Grief is unique for everyone, but acknowledging your feelings is important. Surround yourself with support, and consider professional help if you're struggling to cope."
+    },
+    {
+        "QuestionText": "I have trouble trusting others. How can I work on this?",
+        "Topic": "trust issues",
+        "AnswerText": "Building trust takes time. Start with small steps like setting clear boundaries and being open with people who have earned your trust."
+    },
+  {
+        "QuestionText": "I can't focus on anything lately. Do you have any advice?",
+        "Topic": "focus and concentration",
+        "AnswerText": "It can help to take breaks and try techniques like the Pomodoro method. Exercise and enough sleep also play a huge role in focus."
+    },
+    {
+        "QuestionText": "What are some ways to improve my self-esteem?",
+        "Topic": "self-esteem",
+        "AnswerText": "Building self-esteem takes time. Start by practicing self-compassion and positive self-talk. Setting small goals and achieving them can also boost confidence."
+    },
+    {
+        "QuestionText": "How do I stop negative thoughts?",
+        "Topic": "negative thinking",
+        "AnswerText": "Mindfulness techniques can help in recognizing negative thoughts without letting them take over. You might also try journaling to challenge these thoughts."
+    },
+    {
+        "QuestionText": "Why do I feel so stressed about social situations?",
+        "Topic": "social anxiety",
+        "AnswerText": "Social anxiety is common, and you’re not alone. Practice gradual exposure to social situations and remember to be kind to yourself."
+    },
+    {
+        "QuestionText": "I’m struggling with procrastination. Any tips?",
+        "Topic": "procrastination",
+        "AnswerText": "Try breaking down tasks into smaller steps and setting specific times to work on them. Rewarding yourself after completing tasks can also build motivation."
+    },
+    {
+        "QuestionText": "What can I do to feel less lonely?",
+        "Topic": "loneliness",
+        "AnswerText": "Reaching out to friends, joining groups, or engaging in hobbies can help. It might feel hard, but connecting with others usually eases loneliness."
+    },
+    {
+        "QuestionText": "How do I manage anger effectively?",
+        "Topic": "anger management",
+        "AnswerText": "Taking deep breaths, walking away from triggering situations, and expressing feelings through healthy outlets like journaling can be helpful for managing anger."
+    },
+    {
+        "QuestionText": "I feel so stressed all the time. How can I find relief?",
+        "Topic": "stress management",
+        "AnswerText": "Try relaxation techniques like deep breathing, progressive muscle relaxation, or meditation. Regular physical activity and a balanced routine can also help."
+    },
+    {
+        "QuestionText": "I'm constantly feeling exhausted. What can I do to feel more energized?",
+        "Topic": "fatigue",
+        "AnswerText": "Make sure you're getting enough rest, eating nutritious meals, and staying hydrated. Regular exercise can help boost your energy levels too."
+    },
+    {
+        "QuestionText": "I don't feel motivated to do anything. What should I do?",
+        "Topic": "motivation",
+        "AnswerText": "Start by setting small, achievable goals. Try to break tasks into manageable steps and reward yourself when you complete them."
+    },
+    {
+        "QuestionText": "Why do I feel so anxious in social situations?",
+        "Topic": "social anxiety",
+        "AnswerText": "Social anxiety is common. Start by exposing yourself to smaller social situations and gradually increase your comfort zone. Practice grounding techniques to manage anxiety."
+    },
+    {
+        "QuestionText": "I can't seem to stop overthinking. How can I stop it?",
+        "Topic": "overthinking",
+        "AnswerText": "Practice mindfulness or try distraction techniques like engaging in a hobby or physical activity. Journaling can also help organize your thoughts."
+    },
+    {
+        "QuestionText": "I feel like I’m not good enough. How can I improve my self-esteem?",
+        "Topic": "self-esteem",
+        "AnswerText": "Start by practicing self-compassion and focusing on your positive qualities. Setting and achieving small goals can also help boost your confidence."
+    },
+    {
+        "QuestionText": "I'm feeling overwhelmed by my responsibilities. How can I manage it?",
+        "Topic": "stress management",
+        "AnswerText": "Prioritize your tasks, break them into smaller, more manageable steps, and remember to ask for help when needed. Practice self-care regularly."
+    },
+    {
+        "QuestionText": "I keep comparing myself to others. How can I stop?",
+        "Topic": "self-worth",
+        "AnswerText": "Focus on your own progress and achievements. Practice gratitude and remember that everyone’s journey is different."
+    },
+    {
+        "QuestionText": "I feel stuck in my life. How can I make a change?",
+        "Topic": "life transitions",
+        "AnswerText": "Start by identifying what aspects of your life you want to change. Set small, realistic goals, and take one step at a time toward your new direction."
+    },
+    {
+        "QuestionText": "I don't know how to cope with failure. Can you help?",
+        "Topic": "failure",
+        "AnswerText": "Failure is part of growth. Try to reframe it as a learning opportunity, reflect on what went wrong, and use it to move forward."
+    },
+    {
+        "QuestionText": "How can I manage my negative thoughts?",
+        "Topic": "negative thinking",
+        "AnswerText": "Challenge negative thoughts by asking yourself if they’re based on facts. Replace them with more balanced or positive perspectives."
+    },
+    {
+        "QuestionText": "I feel like nobody cares about me. What should I do?",
+        "Topic": "loneliness",
+        "AnswerText": "It can be helpful to reach out to someone, whether a friend, family member, or therapist. You might also join a group or community to connect with others."
+    },
+    {
+        "QuestionText": "How do I stop feeling anxious all the time?",
+        "Topic": "general anxiety",
+        "AnswerText": "Practice mindfulness, deep breathing, or progressive muscle relaxation. Regular exercise and a healthy diet can also help reduce overall anxiety."
+    },
+    {
+        "QuestionText": "I'm always procrastinating. How can I break this habit?",
+        "Topic": "procrastination",
+        "AnswerText": "Try breaking tasks into smaller, more manageable steps. Set specific deadlines, and reward yourself after completing each task."
+    },
+    {
+        "QuestionText": "I’m feeling unmotivated to work out. Any tips to stay on track?",
+        "Topic": "motivation",
+        "AnswerText": "Find an exercise routine you enjoy and set realistic goals. Track your progress and celebrate small victories to stay motivated."
+    },
+    {
+        "QuestionText": "Why do I feel so anxious about my appearance?",
+        "Topic": "body image",
+        "AnswerText": "Body image anxiety is common. Focus on what your body can do rather than how it looks. Practice self-compassion and challenge negative thoughts about your appearance."
+    },
+    {
+        "QuestionText": "I feel like I'm not achieving enough in life. How can I stop feeling this way?",
+        "Topic": "self-doubt",
+        "AnswerText": "Acknowledge your progress and the steps you’ve taken. Set realistic, achievable goals, and remember that growth takes time."
+    },
+    {
+        "QuestionText": "I'm feeling disconnected from others. How can I rebuild my connections?",
+        "Topic": "relationships",
+        "AnswerText": "Reach out to friends, family, or support groups. Engage in activities that help you feel connected and nurture relationships through honest communication."
+    },
+    {
+        "QuestionText": "How can I feel more confident in myself?",
+        "Topic": "self-confidence",
+        "AnswerText": "Practice self-affirmations, set small and achievable goals, and remind yourself of your strengths and accomplishments."
+    },
+    {
+        "QuestionText": "I'm feeling overwhelmed by my emotions. How can I handle this?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Take a break and practice grounding techniques like deep breathing or mindfulness. Journaling or talking to someone can also help process your emotions."
+    },
+    {
+        "QuestionText": "I feel like everything is out of control. How can I regain control?",
+        "Topic": "control",
+        "AnswerText": "Focus on what you can control in the present moment. Break down tasks into smaller, manageable steps, and prioritize your needs."
+    },
+    {
+        "QuestionText": "I'm scared of being judged by others. How can I overcome this fear?",
+        "Topic": "social anxiety",
+        "AnswerText": "Start by practicing self-compassion. Remind yourself that most people are focused on themselves, and their judgment is not as significant as you think."
+    },
+    {
+        "QuestionText": "How do I get rid of feelings of guilt?",
+        "Topic": "guilt",
+        "AnswerText": "Acknowledge the feelings, reflect on what you can learn, and practice self-forgiveness. If needed, seek professional support to work through these emotions."
+    },
+    {
+        "QuestionText": "I feel like I'm not living up to my potential. How can I change that?",
+        "Topic": "self-fulfillment",
+        "AnswerText": "Set clear, meaningful goals, and focus on progress rather than perfection. Take action, no matter how small, toward your aspirations."
+    },
+    {
+        "QuestionText": "I'm always worried about the future. How can I stop?",
+        "Topic": "anxiety",
+        "AnswerText": "Practice mindfulness techniques and focus on the present moment. Break down future challenges into manageable steps rather than worrying about the unknown."
+    },
+    {
+        "QuestionText": "How do I handle overwhelming emotions during a stressful situation?",
+        "Topic": "stress",
+        "AnswerText": "Take deep breaths, pause for a moment, and allow yourself to process your emotions. Practice self-compassion and take small steps to regain control."
+    },
+    {
+        "QuestionText": "I feel like I'm failing at everything. How can I overcome this feeling?",
+        "Topic": "failure",
+        "AnswerText": "Failure is part of growth. Reflect on the lessons learned, reframe your mindset, and focus on taking small steps forward."
+    },
+    {
+        "QuestionText": "I feel so isolated from everyone around me. What can I do?",
+        "Topic": "loneliness",
+        "AnswerText": "Reach out to someone you trust, join a group, or engage in social activities that interest you. It’s important to make an effort, even if it feels hard."
+    },
+    {
+        "QuestionText": "How can I stop being so self-critical?",
+        "Topic": "self-criticism",
+        "AnswerText": "Practice self-compassion and challenge negative self-talk. Recognize your strengths and remember that nobody is perfect."
+    },
+    {
+        "QuestionText": "I'm worried that my stress is affecting my health. What should I do?",
+        "Topic": "stress management",
+        "AnswerText": "Take regular breaks, prioritize relaxation techniques, and seek support if needed. Addressing stress early can prevent physical health issues."
+    },
+    {
+        "QuestionText": "I have a hard time letting go of my past mistakes. How can I move forward?",
+        "Topic": "letting go",
+        "AnswerText": "Reflect on what you can learn from the past, forgive yourself, and focus on making positive changes in the present."
+    },
+    {
+        "QuestionText": "I don't feel motivated to get out of bed. What can I do?",
+        "Topic": "motivation",
+        "AnswerText": "Start with small tasks, like making your bed or having a cup of water. Gradually increase your activity, and reward yourself for each step."
+    },
+    {
+        "QuestionText": "How can I avoid feeling burnt out?",
+        "Topic": "burnout",
+        "AnswerText": "Set boundaries, take regular breaks, prioritize self-care, and delegate tasks when possible to avoid burnout."
+    },
+    {
+        "QuestionText": "I’m struggling with sleep problems. How can I improve my sleep?",
+        "Topic": "sleep",
+        "AnswerText": "Create a relaxing bedtime routine, avoid caffeine and electronics before bed, and ensure your sleep environment is quiet and comfortable."
+    },
+    {
+        "QuestionText": "How do I deal with feeling misunderstood by others?",
+        "Topic": "communication",
+        "AnswerText": "Communicate your feelings clearly and listen to the perspectives of others. Finding common ground can help bridge the gap."
+    },
+    {
+        "QuestionText": "I don't feel confident when making decisions. How can I improve?",
+        "Topic": "decision-making",
+        "AnswerText": "Start by considering the pros and cons of your choices, and trust your instincts. With practice, you'll become more confident in your decision-making."
+    },
+    {
+        "QuestionText": "I have trouble trusting people. How can I learn to trust again?",
+        "Topic": "trust",
+        "AnswerText": "Start small by taking gradual steps toward rebuilding trust. Be patient with yourself and acknowledge that trust takes time."
+    },
+    {
+        "QuestionText": "I'm feeling anxious about an upcoming event. How can I cope?",
+        "Topic": "event anxiety",
+        "AnswerText": "Prepare by practicing relaxation techniques, visualize a positive outcome, and focus on staying grounded in the present moment."
+    },
+    {
+        "QuestionText": "I feel like I'm always rushing. How can I slow down?",
+        "Topic": "time management",
+        "AnswerText": "Prioritize tasks, delegate when possible, and schedule time for relaxation. Practice mindfulness to help you stay present in the moment."
+    },
+    {
+        "QuestionText": "I'm feeling numb. Is this normal?",
+        "Topic": "emotional numbness",
+        "AnswerText": "Emotional numbness can be a sign of emotional overwhelm. It's important to reach out for support and engage in activities that promote emotional expression."
+    },
+    {
+        "QuestionText": "I keep having negative thoughts about myself. How can I stop?",
+        "Topic": "negative self-talk",
+        "AnswerText": "Challenge negative thoughts by asking if they’re true. Replace them with positive affirmations or realistic perspectives."
+    },
+    {
+        "QuestionText": "I have trouble saying no to people. How can I set boundaries?",
+        "Topic": "boundaries",
+        "AnswerText": "Start by being clear about your needs and values. Practice saying no in small situations and be firm, but polite."
+    },
+    {
+        "QuestionText": "I often feel like I’m failing as a parent. What can I do?",
+        "Topic": "parenting",
+        "AnswerText": "Parenting is challenging, but remember that nobody is perfect. Seek support from others and focus on making small improvements each day."
+    },
+    {
+        "QuestionText": "I don't feel like I belong anywhere. How can I find my place?",
+        "Topic": "belonging",
+        "AnswerText": "Explore different communities and activities that align with your interests. It may take time, but you will find a place where you feel connected."
+    },
+    {
+        "QuestionText": "I keep feeling like I need to be perfect. How can I let go of this pressure?",
+        "Topic": "perfectionism",
+        "AnswerText": "Practice self-compassion and accept that mistakes are part of being human. Focus on progress rather than perfection."
+    },
+    {
+        "QuestionText": "I'm afraid of change. How can I cope with uncertainty?",
+        "Topic": "change",
+        "AnswerText": "Acknowledge your feelings of fear and take small, manageable steps toward the change. Embrace uncertainty as part of personal growth."
+    },
+    {
+        "QuestionText": "I'm always feeling so restless. What can I do to calm down?",
+        "Topic": "restlessness",
+        "AnswerText": "Try deep breathing exercises, meditation, or progressive muscle relaxation to help calm your body and mind. Regular physical activity can also help with restlessness."
+    },
+    {
+        "QuestionText": "I can't seem to stop worrying about everything. How can I stop?",
+        "Topic": "general anxiety",
+        "AnswerText": "Practice mindfulness or focus on grounding techniques to bring yourself back to the present moment. Set aside time each day for relaxation exercises."
+    },
+    {
+        "QuestionText": "I feel like I have no control over my emotions. How can I manage them better?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Recognize your triggers and practice self-awareness. Learn coping techniques like deep breathing or journaling to manage overwhelming emotions."
+    },
+    {
+        "QuestionText": "I'm struggling with perfectionism. How can I stop feeling like everything has to be perfect?",
+        "Topic": "perfectionism",
+        "AnswerText": "Challenge perfectionistic thoughts by focusing on progress instead of perfection. Give yourself permission to make mistakes and learn from them."
+    },
+    {
+        "QuestionText": "I feel like I'm not being heard. What can I do about it?",
+        "Topic": "communication",
+        "AnswerText": "Express your feelings clearly and calmly. Practice active listening and seek understanding from others in your conversations."
+    },
+    {
+        "QuestionText": "How can I stop feeling overwhelmed by my responsibilities?",
+        "Topic": "stress management",
+        "AnswerText": "Prioritize your tasks, delegate when possible, and set realistic goals. Break tasks into smaller steps to make them more manageable."
+    },
+    {
+        "QuestionText": "I can't seem to focus on anything. How can I improve my concentration?",
+        "Topic": "focus",
+        "AnswerText": "Try mindfulness exercises to improve your concentration. Break tasks into smaller chunks and eliminate distractions to improve focus."
+    },
+    {
+        "QuestionText": "I feel like I’m always in a rush. How can I slow down and enjoy life?",
+        "Topic": "time management",
+        "AnswerText": "Practice mindfulness and focus on the present moment. Schedule breaks throughout the day and ensure you're setting aside time for activities that bring you joy."
+    },
+    {
+        "QuestionText": "I have trouble letting go of past mistakes. How can I stop dwelling on them?",
+        "Topic": "letting go",
+        "AnswerText": "Acknowledge the mistake, learn from it, and forgive yourself. Focus on the present and take steps to move forward rather than dwelling on the past."
+    },
+    {
+        "QuestionText": "I feel disconnected from my emotions. What should I do?",
+        "Topic": "emotional numbness",
+        "AnswerText": "Try journaling, engaging in creative activities, or practicing mindfulness to reconnect with your emotions. Speaking to a therapist can help if you're feeling numb."
+    },
+    {
+        "QuestionText": "I keep thinking that I'm not good enough. How can I stop these negative thoughts?",
+        "Topic": "self-worth",
+        "AnswerText": "Challenge negative self-talk and replace it with positive affirmations. Focus on your strengths and achievements to build your confidence."
+    },
+    {
+        "QuestionText": "How can I manage my anxiety in social situations?",
+        "Topic": "social anxiety",
+        "AnswerText": "Practice deep breathing and grounding exercises before social events. Start by attending smaller gatherings to build confidence and gradually face more challenging situations."
+    },
+    {
+        "QuestionText": "I often feel like I’m failing at life. What can I do?",
+        "Topic": "self-doubt",
+        "AnswerText": "Acknowledge your achievements, no matter how small. Set realistic goals and break them down into manageable steps to regain confidence in your abilities."
+    },
+    {
+        "QuestionText": "I'm constantly worried about what others think of me. How can I stop?",
+        "Topic": "self-esteem",
+        "AnswerText": "Shift your focus from others' perceptions to your own values. Practice self-affirmation and remind yourself that you can't control others' thoughts."
+    },
+    {
+        "QuestionText": "How do I deal with being constantly tired and drained?",
+        "Topic": "fatigue",
+        "AnswerText": "Ensure you're getting enough sleep, eating a balanced diet, and managing stress. Consider incorporating relaxation exercises into your daily routine."
+    },
+    {
+        "QuestionText": "I feel so lonely even when I'm around others. What can I do?",
+        "Topic": "loneliness",
+        "AnswerText": "Reach out to trusted friends or family members for support. Consider joining social groups or activities that align with your interests to meet like-minded people."
+    },
+    {
+        "QuestionText": "I'm struggling with my self-image. How can I improve how I see myself?",
+        "Topic": "body image",
+        "AnswerText": "Challenge negative body thoughts by focusing on what your body does for you. Practice gratitude for your body and engage in self-compassionate behaviors."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by the amount of work I have. How can I manage it?",
+        "Topic": "time management",
+        "AnswerText": "Prioritize your tasks, break them into smaller chunks, and set specific time limits for each. Remember to schedule breaks to avoid burnout."
+    },
+    {
+        "QuestionText": "I have trouble saying no to others. How can I set better boundaries?",
+        "Topic": "boundaries",
+        "AnswerText": "Practice saying no in low-stakes situations to build confidence. Remember that it's okay to prioritize your own needs and well-being."
+    },
+    {
+        "QuestionText": "How do I cope with the feeling of not being in control?",
+        "Topic": "control",
+        "AnswerText": "Focus on the things you can control, such as your reactions and decisions. Let go of the need to control everything and accept uncertainty."
+    },
+    {
+        "QuestionText": "I feel unmotivated to start anything. How can I break this cycle?",
+        "Topic": "motivation",
+        "AnswerText": "Start with the smallest possible step, even if it's just a few minutes of work. Celebrate small victories to build momentum."
+    },
+    {
+        "QuestionText": "I constantly feel like I’m stuck in a rut. What can I do to change that?",
+        "Topic": "life transitions",
+        "AnswerText": "Start by setting new, small goals. Explore new hobbies or experiences to break the routine and add excitement to your life."
+    },
+    {
+        "QuestionText": "I feel like I'm always letting people down. How can I stop?",
+        "Topic": "self-doubt",
+        "AnswerText": "Reflect on the positive impact you've had on others. Recognize that you can't always meet everyone's expectations, and that's okay."
+    },
+    {
+        "QuestionText": "How can I deal with the pressure to succeed?",
+        "Topic": "pressure",
+        "AnswerText": "Set realistic expectations for yourself. Focus on progress and effort, rather than perfection or external validation."
+    },
+    {
+        "QuestionText": "I feel like I’m not achieving my goals. What should I do?",
+        "Topic": "goal setting",
+        "AnswerText": "Reevaluate your goals and break them into smaller, achievable steps. Celebrate your progress along the way to stay motivated."
+    },
+    {
+        "QuestionText": "How can I overcome my fear of failure?",
+        "Topic": "fear of failure",
+        "AnswerText": "Reframe failure as a learning experience. Recognize that setbacks are normal and part of growth."
+    },
+    {
+        "QuestionText": "I keep avoiding difficult tasks. How can I tackle them?",
+        "Topic": "procrastination",
+        "AnswerText": "Start by breaking tasks into smaller steps and focus on one at a time. Set a timer for short bursts of work to overcome procrastination."
+    },
+    {
+        "QuestionText": "I'm struggling to find motivation in my studies. How can I stay focused?",
+        "Topic": "motivation",
+        "AnswerText": "Set clear, achievable goals for your studies. Break tasks into smaller chunks, and take regular breaks to avoid burnout."
+    },
+    {
+        "QuestionText": "I often feel like I’m not enough. How can I improve my self-worth?",
+        "Topic": "self-worth",
+        "AnswerText": "Practice self-compassion and remind yourself of your strengths. Set healthy boundaries and focus on your personal growth."
+    },
+    {
+        "QuestionText": "I’m afraid of being judged. How can I overcome this fear?",
+        "Topic": "social anxiety",
+        "AnswerText": "Challenge your negative beliefs about judgment. Practice exposure to social situations, and remember that everyone has insecurities."
+    },
+    {
+        "QuestionText": "I feel like I’ve lost my sense of purpose. What can I do?",
+        "Topic": "purpose",
+        "AnswerText": "Reflect on your values and passions. Set new goals aligned with your interests, and take small steps toward finding meaning."
+    },
+    {
+        "QuestionText": "How do I deal with emotional exhaustion?",
+        "Topic": "emotional exhaustion",
+        "AnswerText": "Take time for self-care and relaxation. Set boundaries, delegate tasks when possible, and prioritize activities that help you recharge."
+    },
+    {
+        "QuestionText": "I feel like I’m stuck in the past. How can I move forward?",
+        "Topic": "moving forward",
+        "AnswerText": "Acknowledge your feelings, learn from past experiences, and focus on setting small, actionable goals for the future."
+    },
+    {
+        "QuestionText": "I constantly feel anxious about the future. What can I do?",
+        "Topic": "future anxiety",
+        "AnswerText": "Practice mindfulness and focus on what you can control. Break down future concerns into manageable steps and trust the process."
+    },
+    {
+        "QuestionText": "I feel like I'm losing control over my emotions. How can I regain control?",
+        "Topic": "emotional control",
+        "AnswerText": "Start by identifying triggers and practicing relaxation techniques like deep breathing. Therapy can also help in understanding and managing emotions."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by my responsibilities at home. How can I cope?",
+        "Topic": "home stress",
+        "AnswerText": "Delegate tasks where possible and set realistic expectations for yourself. Make sure to take time for self-care to recharge."
+    },
+    {
+        "QuestionText": "I'm constantly feeling tired, but I can't sleep. What should I do?",
+        "Topic": "sleep issues",
+        "AnswerText": "Try establishing a bedtime routine, limit caffeine intake, and ensure your bedroom is a comfortable, restful environment."
+    },
+    {
+        "QuestionText": "I feel like I'm constantly comparing myself to others. How can I stop?",
+        "Topic": "self-comparison",
+        "AnswerText": "Focus on your own growth and progress. Practice gratitude and remind yourself that everyone has their own unique journey."
+    },
+    {
+        "QuestionText": "I have a hard time trusting others. How can I build trust again?",
+        "Topic": "trust",
+        "AnswerText": "Start by being honest with yourself and others. Take small steps toward opening up and acknowledging your past experiences."
+    },
+    {
+        "QuestionText": "I feel disconnected from the people around me. What can I do?",
+        "Topic": "social isolation",
+        "AnswerText": "Reach out to friends or loved ones, join social groups or clubs that interest you, and make an effort to engage in meaningful conversations."
+    },
+    {
+        "QuestionText": "I can't stop ruminating over past events. How can I break this cycle?",
+        "Topic": "rumination",
+        "AnswerText": "Challenge negative thoughts by focusing on the present. Engage in activities that require full attention, such as exercise or creative hobbies."
+    },
+    {
+        "QuestionText": "I keep worrying about things I can't control. How can I let go of this?",
+        "Topic": "letting go",
+        "AnswerText": "Practice mindfulness and focus on the present moment. Acknowledge that worrying doesn't change outcomes, and release the need for control."
+    },
+    {
+        "QuestionText": "I'm afraid of being judged by others. How can I stop feeling this way?",
+        "Topic": "fear of judgment",
+        "AnswerText": "Recognize that others' opinions are often based on their own experiences. Practice self-acceptance and focus on what truly matters to you."
+    },
+    {
+        "QuestionText": "I feel like I don't have a purpose in life. What can I do?",
+        "Topic": "purpose",
+        "AnswerText": "Reflect on your values, passions, and strengths. Set goals that align with your interests and contribute to your sense of meaning."
+    },
+    {
+        "QuestionText": "I often feel overwhelmed by my emotions. How can I manage them?",
+        "Topic": "emotional overwhelm",
+        "AnswerText": "Practice grounding exercises, such as deep breathing or mindfulness, and take breaks when you feel overwhelmed to reset emotionally."
+    },
+    {
+        "QuestionText": "I'm afraid of failure. How can I overcome this fear?",
+        "Topic": "fear of failure",
+        "AnswerText": "Reframe failure as a learning experience. Set realistic goals and embrace mistakes as opportunities for growth."
+    },
+    {
+        "QuestionText": "How can I cope with feelings of guilt?",
+        "Topic": "guilt",
+        "AnswerText": "Acknowledge your feelings, learn from the situation, and practice self-forgiveness. Focus on positive actions moving forward."
+    },
+    {
+        "QuestionText": "I feel like I don’t fit in. How can I find my place?",
+        "Topic": "belonging",
+        "AnswerText": "Explore new communities and activities that align with your interests. Remember that it takes time to find a place where you feel accepted."
+    },
+    {
+        "QuestionText": "I'm often overwhelmed by the demands of others. How can I handle this?",
+        "Topic": "boundaries",
+        "AnswerText": "Set clear boundaries and communicate your needs respectfully. It’s important to prioritize your own well-being while balancing responsibilities."
+    },
+    {
+        "QuestionText": "I feel like I’m not achieving anything in life. How can I change this?",
+        "Topic": "self-fulfillment",
+        "AnswerText": "Reflect on your goals and progress. Break them into smaller steps and celebrate the milestones to stay motivated."
+    },
+    {
+        "QuestionText": "I feel disconnected from myself. How can I reconnect?",
+        "Topic": "self-connection",
+        "AnswerText": "Engage in activities that allow you to explore your thoughts and emotions, such as journaling, meditation, or talking with a trusted person."
+    },
+    {
+        "QuestionText": "I keep sabotaging myself. How can I stop?",
+        "Topic": "self-sabotage",
+        "AnswerText": "Identify the underlying fears or beliefs contributing to self-sabotage. Practice self-compassion and take small, positive steps toward your goals."
+    },
+    {
+        "QuestionText": "I feel like I’m not enough. How can I improve my self-esteem?",
+        "Topic": "self-esteem",
+        "AnswerText": "Practice self-compassion, focus on your strengths, and set achievable goals to build your confidence over time."
+    },
+    {
+        "QuestionText": "I keep avoiding things that make me anxious. How can I stop?",
+        "Topic": "avoidance",
+        "AnswerText": "Gradually face situations that cause anxiety, starting with smaller challenges. Use relaxation techniques to manage anxiety as you face these situations."
+    },
+    {
+        "QuestionText": "I feel constantly stressed and overwhelmed. How can I manage stress better?",
+        "Topic": "stress management",
+        "AnswerText": "Practice relaxation techniques like deep breathing, exercise regularly, and find activities that bring you joy to help reduce stress."
+    },
+    {
+        "QuestionText": "I'm struggling with my body image. How can I feel better about myself?",
+        "Topic": "body image",
+        "AnswerText": "Focus on what your body does for you rather than how it looks. Practice self-love and surround yourself with positive influences."
+    },
+    {
+        "QuestionText": "I can't seem to stay motivated. How can I find more drive?",
+        "Topic": "motivation",
+        "AnswerText": "Set clear, achievable goals and reward yourself for progress. Try to break tasks into smaller, more manageable pieces to stay on track."
+    },
+    {
+        "QuestionText": "I often feel like I’m not making progress in life. What should I do?",
+        "Topic": "personal growth",
+        "AnswerText": "Track your progress and recognize the small achievements. Reflect on the areas you’ve grown in, even if they seem small."
+    },
+    {
+        "QuestionText": "I'm afraid of change. How can I embrace it?",
+        "Topic": "change",
+        "AnswerText": "Start by acknowledging your fears and reframing change as an opportunity for growth. Take small, manageable steps toward embracing the new."
+    },
+    {
+        "QuestionText": "I feel like I’m not in control of my life. How can I regain control?",
+        "Topic": "control",
+        "AnswerText": "Focus on what you can control, such as your actions and decisions. Set small, achievable goals to regain a sense of agency."
+    },
+    {
+        "QuestionText": "I feel stuck in my career. How can I move forward?",
+        "Topic": "career development",
+        "AnswerText": "Evaluate your goals and aspirations, and consider seeking new opportunities for growth. Set clear career goals and work on gaining new skills."
+    },
+    {
+        "QuestionText": "I feel like I’m constantly running out of time. How can I manage time better?",
+        "Topic": "time management",
+        "AnswerText": "Prioritize tasks, set specific time limits, and delegate when possible. Break tasks into smaller chunks to make them more manageable."
+    },
+    {
+        "QuestionText": "I'm afraid of being alone forever. How can I cope?",
+        "Topic": "fear of loneliness",
+        "AnswerText": "Focus on building meaningful relationships and nurturing connections. Practice self-love and engage in activities that bring you joy."
+    },
+    {
+        "QuestionText": "I feel like I'm constantly failing. How can I overcome this feeling?",
+        "Topic": "failure",
+        "AnswerText": "Reframe failure as a learning experience. Focus on the lessons you can take from challenges and view them as stepping stones."
+    },
+    {
+        "QuestionText": "I feel disconnected from my emotions. How can I reconnect?",
+        "Topic": "emotional disconnection",
+        "AnswerText": "Take time for self-reflection through journaling, meditation, or talking to someone you trust to help reconnect with your feelings."
+    },
+    {
+        "QuestionText": "I constantly worry about things that might never happen. How can I stop?",
+        "Topic": "catastrophic thinking",
+        "AnswerText": "Challenge your anxious thoughts by asking yourself if they are based on facts. Practice mindfulness to stay in the present moment."
+    },
+    {
+        "QuestionText": "I feel like no one understands me. What can I do?",
+        "Topic": "feeling misunderstood",
+        "AnswerText": "Reach out to someone you trust and express your feelings. Sometimes, talking things through can help others understand your perspective."
+    },
+    {
+        "QuestionText": "I'm overwhelmed with work. How can I handle this?",
+        "Topic": "work stress",
+        "AnswerText": "Take breaks when needed, prioritize tasks, and communicate with your supervisor if you're feeling overloaded. Setting boundaries can also help."
+    },
+    {
+        "QuestionText": "I feel like I’m not good enough for my job. How can I improve my confidence?",
+        "Topic": "workplace confidence",
+        "AnswerText": "Recognize your accomplishments and strengths. Focus on skills you’ve developed and consider seeking feedback for growth opportunities."
+    },
+    {
+        "QuestionText": "I often feel like I'm not achieving my goals. How can I stay motivated?",
+        "Topic": "goal setting",
+        "AnswerText": "Set clear, achievable goals and break them into smaller tasks. Celebrate your progress along the way, and don't be too hard on yourself."
+    },
+    {
+        "QuestionText": "I’m struggling to maintain a healthy work-life balance. How can I improve this?",
+        "Topic": "work-life balance",
+        "AnswerText": "Set boundaries between work and personal life. Prioritize self-care, spend time with loved ones, and engage in activities that help you recharge."
+    },
+    {
+        "QuestionText": "I feel like I can't trust anyone. How can I rebuild trust?",
+        "Topic": "trust issues",
+        "AnswerText": "Start by being honest with yourself and others. Gradually open up in safe situations, and remember that trust is built over time."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by my emotions. How can I manage them better?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Practice grounding exercises like deep breathing, mindfulness, and self-compassion to help manage overwhelming emotions."
+    },
+    {
+        "QuestionText": "I feel like I’m not making progress in life. How can I move forward?",
+        "Topic": "personal growth",
+        "AnswerText": "Reflect on your progress so far, set clear goals, and take small steps toward achieving them. Progress often comes in incremental steps."
+    },
+    {
+        "QuestionText": "I can’t stop feeling anxious. What can I do?",
+        "Topic": "anxiety",
+        "AnswerText": "Practice deep breathing, grounding exercises, or engage in activities that help calm your mind. Seeking support from a therapist can also help."
+    },
+    {
+        "QuestionText": "I'm afraid of failure. How can I cope with this fear?",
+        "Topic": "fear of failure",
+        "AnswerText": "Reframe failure as a learning opportunity. Set small, manageable goals and focus on progress rather than perfection."
+    },
+    {
+        "QuestionText": "I feel like my life lacks meaning. How can I find purpose?",
+        "Topic": "life purpose",
+        "AnswerText": "Reflect on your values and passions. Set goals that align with them, and focus on the small actions that bring you fulfillment."
+    },
+    {
+        "QuestionText": "I keep thinking about past mistakes. How can I move past them?",
+        "Topic": "rumination",
+        "AnswerText": "Acknowledge your mistakes and use them as learning experiences. Practice mindfulness and focus on the present to stop dwelling on the past."
+    },
+    {
+        "QuestionText": "I'm struggling with burnout. How can I recover?",
+        "Topic": "burnout",
+        "AnswerText": "Take time off from work, engage in self-care, and re-evaluate your work-life balance. Consider seeking professional support if needed."
+    },
+    {
+        "QuestionText": "I feel disconnected from my friends. How can I reconnect?",
+        "Topic": "social disconnection",
+        "AnswerText": "Reach out to friends and express your feelings. Plan activities that you enjoy together, and take steps to strengthen your relationships."
+    },
+    {
+        "QuestionText": "I don't feel motivated to do anything. How can I find motivation?",
+        "Topic": "lack of motivation",
+        "AnswerText": "Set small, achievable goals and reward yourself for accomplishing them. Try to reframe your tasks as opportunities for growth."
+    },
+    {
+        "QuestionText": "I feel lonely even when I’m around people. What can I do?",
+        "Topic": "loneliness",
+        "AnswerText": "Engage in deeper, more meaningful conversations. Seek connections with people who share your interests, and make time for activities you enjoy."
+    },
+    {
+        "QuestionText": "I feel like my anxiety is controlling my life. How can I regain control?",
+        "Topic": "anxiety control",
+        "AnswerText": "Practice mindfulness, relaxation techniques, and seek therapy to help manage your anxiety. Gradually face your fears in a safe and controlled manner."
+    },
+    {
+        "QuestionText": "I often feel overwhelmed by my thoughts. How can I quiet my mind?",
+        "Topic": "overthinking",
+        "AnswerText": "Practice mindfulness and meditation to center your thoughts. Write down your concerns to clear your mind and focus on the present."
+    },
+    {
+        "QuestionText": "I feel like I'm failing as a parent. How can I be a better one?",
+        "Topic": "parenting",
+        "AnswerText": "Parenting is challenging, but recognizing your efforts and seeking support when needed can help. Practice patience and consistency, and prioritize self-care."
+    },
+    {
+        "QuestionText": "I can't handle the pressure of my responsibilities. How can I cope?",
+        "Topic": "responsibility stress",
+        "AnswerText": "Break down your tasks into smaller steps, prioritize what’s most important, and reach out for support if you need it. Practice self-compassion."
+    },
+    {
+        "QuestionText": "I feel stuck in my current routine. How can I break free?",
+        "Topic": "routine",
+        "AnswerText": "Introduce new activities, set fresh goals, and try to engage in something different that excites you to add variety to your routine."
+    },
+    {
+        "QuestionText": "I keep procrastinating. How can I overcome this habit?",
+        "Topic": "procrastination",
+        "AnswerText": "Break tasks into smaller, manageable steps. Set clear deadlines and reward yourself for completing tasks on time."
+    },
+    {
+        "QuestionText": "I’m struggling with my self-worth. How can I feel better about myself?",
+        "Topic": "self-worth",
+        "AnswerText": "Practice self-compassion and focus on your strengths. Celebrate small victories and surround yourself with positive, supportive people."
+    },
+    {
+        "QuestionText": "I’m scared of being judged. How can I stop worrying about others' opinions?",
+        "Topic": "fear of judgment",
+        "AnswerText": "Recognize that everyone has their own insecurities. Focus on your values and what truly matters to you instead of external judgment."
+    },
+    {
+        "QuestionText": "I feel out of control. How can I regain control of my life?",
+        "Topic": "life control",
+        "AnswerText": "Focus on what you can control, such as your daily actions and decisions. Set realistic goals and work towards them step by step."
+    },
+    {
+        "QuestionText": "I feel like I’m not living up to my potential. How can I change this?",
+        "Topic": "self-actualization",
+        "AnswerText": "Reflect on your strengths, set clear goals, and challenge yourself to step out of your comfort zone. Progress is a journey, not a destination."
+    },
+    {
+        "QuestionText": "I don’t know how to handle my emotions. What should I do?",
+        "Topic": "emotional health",
+        "AnswerText": "Practice mindfulness to become aware of your emotions. Journaling or talking to a therapist can help you process your feelings."
+    },
+    {
+        "QuestionText": "I feel like I’m not in control of my life. How can I fix this?",
+        "Topic": "control",
+        "AnswerText": "Focus on setting small, manageable goals and working toward them. Learn to accept that there are things outside your control, but you can influence your response."
+    },
+    {
+        "QuestionText": "I'm constantly anxious about my performance at work. How can I manage this?",
+        "Topic": "work anxiety",
+        "AnswerText": "Break down tasks into manageable pieces and focus on progress, not perfection. Take regular breaks and practice relaxation techniques."
+    },
+    {
+        "QuestionText": "I feel overwhelmed with personal responsibilities. How can I cope?",
+        "Topic": "personal stress",
+        "AnswerText": "Prioritize tasks and set realistic goals. It’s okay to ask for help when you need it and make time for self-care."
+    },
+    {
+        "QuestionText": "I’m struggling to maintain a healthy routine. Any tips?",
+        "Topic": "routine",
+        "AnswerText": "Start small by setting consistent sleep, meal, and exercise times. Gradually build habits and adjust your routine to your needs."
+    },
+    {
+        "QuestionText": "I feel like I can’t relax. How can I calm down?",
+        "Topic": "relaxation",
+        "AnswerText": "Try progressive muscle relaxation, deep breathing, or meditation to reduce stress and help your body and mind unwind."
+    },
+    {
+        "QuestionText": "I feel like I'm stuck in a negative cycle. How can I break it?",
+        "Topic": "negative thought cycle",
+        "AnswerText": "Challenge your negative thoughts and replace them with positive affirmations. Focus on what you can control and practice mindfulness."
+    },
+    {
+        "QuestionText": "I'm feeling socially anxious. What can I do to feel better in social situations?",
+        "Topic": "social anxiety",
+        "AnswerText": "Practice deep breathing, focus on the present moment, and take small steps to gradually engage in social interactions."
+    },
+    {
+        "QuestionText": "I'm having trouble concentrating. How can I improve my focus?",
+        "Topic": "concentration",
+        "AnswerText": "Break tasks into smaller steps, eliminate distractions, and take short breaks to improve focus and productivity."
+    },
+    {
+        "QuestionText": "I often feel like I’m not in control of my life. How can I regain control?",
+        "Topic": "life control",
+        "AnswerText": "Identify areas of your life you can control and focus on them. Take small steps toward goals, and remember, progress takes time."
+    },
+    {
+        "QuestionText": "I feel like I'm constantly comparing myself to others. How can I stop?",
+        "Topic": "self-comparison",
+        "AnswerText": "Focus on your unique qualities and progress. Practice gratitude for what you have, and avoid comparing your journey to others."
+    },
+    {
+        "QuestionText": "I’m struggling with motivation. How can I find the energy to keep going?",
+        "Topic": "motivation",
+        "AnswerText": "Set small, achievable goals and celebrate your progress. Break tasks into manageable steps to reduce overwhelm."
+    },
+    {
+        "QuestionText": "I feel exhausted all the time. How can I boost my energy?",
+        "Topic": "fatigue",
+        "AnswerText": "Make sure you’re getting enough sleep, eating nutritious food, and engaging in regular physical activity to boost your energy levels."
+    },
+    {
+        "QuestionText": "I have a hard time letting go of the past. What can I do?",
+        "Topic": "letting go",
+        "AnswerText": "Practice mindfulness and focus on the present. Seek closure by acknowledging your feelings and finding ways to move forward."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by my emotions. How can I regain control?",
+        "Topic": "emotional overwhelm",
+        "AnswerText": "Take a step back and practice grounding techniques. Focus on deep breathing, and don’t be afraid to reach out for support."
+    },
+    {
+        "QuestionText": "I feel like no one understands me. How can I find support?",
+        "Topic": "feeling misunderstood",
+        "AnswerText": "Reach out to people who are empathetic and willing to listen. It can also help to talk to a therapist or join support groups."
+    },
+    {
+        "QuestionText": "I constantly feel anxious about the future. How can I manage this?",
+        "Topic": "future anxiety",
+        "AnswerText": "Focus on the present and break future concerns into smaller, actionable steps. Engage in mindfulness practices to calm your mind."
+    },
+    {
+        "QuestionText": "I feel guilty about past actions. How can I move past this guilt?",
+        "Topic": "guilt",
+        "AnswerText": "Acknowledge the feelings, learn from past experiences, and practice self-forgiveness. Make amends where possible and focus on personal growth."
+    },
+    {
+        "QuestionText": "I’m afraid of being judged by others. How can I overcome this fear?",
+        "Topic": "fear of judgment",
+        "AnswerText": "Recognize that everyone has their own insecurities. Focus on being true to yourself, and remember that judgment often says more about others than about you."
+    },
+    {
+        "QuestionText": "I feel stuck in my current situation. How can I break free?",
+        "Topic": "feeling stuck",
+        "AnswerText": "Start by identifying small changes you can make. Set new goals and take small steps toward them. Change often starts with a shift in mindset."
+    },
+    {
+        "QuestionText": "I often feel like I’m not good enough. How can I boost my self-esteem?",
+        "Topic": "self-esteem",
+        "AnswerText": "Practice self-compassion and focus on your strengths. Celebrate achievements, no matter how small, and surround yourself with positive people."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by all the things I need to do. How can I manage my time better?",
+        "Topic": "time management",
+        "AnswerText": "Prioritize tasks, break them into manageable chunks, and set specific deadlines. Use tools like to-do lists or planners to stay organized."
+    },
+    {
+        "QuestionText": "I have trouble with anxiety in social situations. How can I handle this better?",
+        "Topic": "social anxiety",
+        "AnswerText": "Practice deep breathing, remind yourself that it's okay to feel nervous, and take small steps to engage with others at your own pace."
+    },
+    {
+        "QuestionText": "I feel like I can't express myself. How can I communicate better?",
+        "Topic": "communication",
+        "AnswerText": "Practice active listening, be open to feedback, and express your thoughts clearly and calmly. It may help to write down your feelings first."
+    },
+    {
+        "QuestionText": "I'm having trouble sleeping. What can I do to get better rest?",
+        "Topic": "sleep",
+        "AnswerText": "Try establishing a bedtime routine, limit screen time before bed, and create a calm, dark environment to help improve the quality of your sleep."
+    },
+    {
+        "QuestionText": "I feel like I’m not achieving anything in life. How can I change this?",
+        "Topic": "achievement",
+        "AnswerText": "Start by setting realistic goals and breaking them into smaller tasks. Celebrate progress, no matter how small, and be patient with yourself."
+    },
+    {
+        "QuestionText": "I feel disconnected from my friends. How can I reconnect?",
+        "Topic": "social disconnection",
+        "AnswerText": "Reach out to your friends and be honest about how you're feeling. Plan activities that you can enjoy together to reconnect."
+    },
+    {
+        "QuestionText": "I often feel angry or upset. How can I manage these emotions?",
+        "Topic": "anger management",
+        "AnswerText": "Practice relaxation techniques, like deep breathing or mindfulness, and find healthy outlets for your anger, such as exercise or creative activities."
+    },
+    {
+        "QuestionText": "I feel like I’m constantly failing. How can I stop feeling this way?",
+        "Topic": "fear of failure",
+        "AnswerText": "Reframe failure as an opportunity for growth. Learn from setbacks, and focus on the progress you've made, rather than what you haven’t yet achieved."
+    },
+    {
+        "QuestionText": "I feel like I don’t belong. How can I feel more connected?",
+        "Topic": "belonging",
+        "AnswerText": "Reach out to people who share your interests. Join groups or activities that make you feel accepted, and remember that everyone belongs somewhere."
+    },
+    {
+        "QuestionText": "I feel like I’m always chasing after something. How can I find peace?",
+        "Topic": "peace of mind",
+        "AnswerText": "Practice mindfulness and focus on the present moment. Learn to appreciate what you have right now, and let go of the constant pursuit of more."
+    },
+    {
+        "QuestionText": "I feel anxious when I have too many things to do. How can I handle this?",
+        "Topic": "task overwhelm",
+        "AnswerText": "Prioritize your tasks and tackle one thing at a time. Use time-blocking techniques and don't forget to take breaks to manage your energy levels."
+    },
+    {
+        "QuestionText": "I'm struggling to make decisions. How can I improve my decision-making skills?",
+        "Topic": "decision-making",
+        "AnswerText": "Clarify your goals, gather information, and weigh the pros and cons. Trust yourself to make the best choice and learn from the outcome."
+    },
+    {
+        "QuestionText": "I'm having trouble letting go of negative thoughts. How can I stop ruminating?",
+        "Topic": "negative thinking",
+        "AnswerText": "Try practicing mindfulness and grounding techniques to focus on the present moment. Challenge your negative thoughts with more realistic perspectives."
+    },
+    {
+        "QuestionText": "I feel lonely even when I'm surrounded by people. What can I do?",
+        "Topic": "loneliness",
+        "AnswerText": "Focus on meaningful connections rather than quantity. Consider reaching out to others for deeper, more fulfilling conversations."
+    },
+    {
+        "QuestionText": "I feel like I’ve lost my sense of purpose. How can I find it again?",
+        "Topic": "lack of purpose",
+        "AnswerText": "Take time to explore what truly matters to you. Set small, achievable goals that align with your values and passions to regain direction."
+    },
+    {
+        "QuestionText": "I feel insecure about my appearance. How can I feel better about myself?",
+        "Topic": "body image",
+        "AnswerText": "Shift your focus from appearance to health and well-being. Practice self-compassion and surround yourself with positive influences."
+    },
+    {
+        "QuestionText": "I can’t stop thinking about past mistakes. How can I move forward?",
+        "Topic": "regret",
+        "AnswerText": "Acknowledge the mistakes, learn from them, and practice self-forgiveness. Remember that everyone makes mistakes, and they don’t define who you are."
+    },
+    {
+        "QuestionText": "I feel like I’m stuck in a rut. How can I get out of it?",
+        "Topic": "feeling stuck",
+        "AnswerText": "Try changing your routine, setting new goals, and embracing new experiences. Small changes can help shift your mindset and break the monotony."
+    },
+    {
+        "QuestionText": "I’m constantly worried about what others think of me. How can I stop caring so much?",
+        "Topic": "people-pleasing",
+        "AnswerText": "Focus on what truly matters to you. Practice self-validation and remember that you cannot control others' thoughts or opinions."
+    },
+    {
+        "QuestionText": "I’m feeling drained and overwhelmed. How can I restore my energy?",
+        "Topic": "burnout",
+        "AnswerText": "Prioritize self-care by resting, eating well, and engaging in activities that recharge you. Set boundaries to avoid taking on too much."
+    },
+    {
+        "QuestionText": "I feel anxious about making decisions. How can I overcome this fear?",
+        "Topic": "decision anxiety",
+        "AnswerText": "Break decisions down into smaller, manageable steps. Trust your instincts, and remember that most decisions are not as permanent as they seem."
+    },
+    {
+        "QuestionText": "I’m always comparing myself to others. How can I stop?",
+        "Topic": "self-comparison",
+        "AnswerText": "Focus on your own journey and growth. Celebrate your achievements, and remember that everyone has their own unique path."
+    },
+    {
+        "QuestionText": "I feel like I don’t have any control over my life. How can I regain control?",
+        "Topic": "lack of control",
+        "AnswerText": "Identify small areas where you can make changes. Taking control of daily habits and routines can help you regain a sense of agency."
+    },
+    {
+        "QuestionText": "I can’t seem to focus on anything. How can I improve my concentration?",
+        "Topic": "concentration",
+        "AnswerText": "Create a distraction-free environment, break tasks into smaller parts, and practice mindfulness to improve focus and clarity."
+    },
+    {
+        "QuestionText": "I feel so overwhelmed by everything I have to do. How can I manage my tasks better?",
+        "Topic": "task management",
+        "AnswerText": "Prioritize tasks, delegate when possible, and break large tasks into smaller, manageable steps. Don't forget to take breaks."
+    },
+    {
+        "QuestionText": "I feel anxious all the time. How can I reduce my anxiety?",
+        "Topic": "general anxiety",
+        "AnswerText": "Practice relaxation techniques such as deep breathing, progressive muscle relaxation, or mindfulness to help calm your mind."
+    },
+    {
+        "QuestionText": "I feel like I’m never good enough. How can I improve my self-worth?",
+        "Topic": "self-worth",
+        "AnswerText": "Recognize your strengths and accomplishments. Practice self-compassion, and remember that your worth is not defined by external achievements."
+    },
+    {
+        "QuestionText": "I find it hard to stay motivated. How can I push through this?",
+        "Topic": "motivation",
+        "AnswerText": "Set clear, achievable goals and break them down into smaller tasks. Celebrate your progress, and reward yourself for small victories."
+    },
+    {
+        "QuestionText": "I feel like I can’t trust anyone. How can I build trust again?",
+        "Topic": "trust issues",
+        "AnswerText": "Start by being open and vulnerable with people you trust. Take small steps to rebuild trust in relationships and be patient with yourself."
+    },
+    {
+        "QuestionText": "I have trouble saying no to people. How can I set better boundaries?",
+        "Topic": "boundary setting",
+        "AnswerText": "Practice assertive communication and recognize your own needs. Saying no is a healthy way to preserve your time and energy."
+    },
+    {
+        "QuestionText": "I can’t stop feeling sad. What can I do to improve my mood?",
+        "Topic": "persistent sadness",
+        "AnswerText": "Engage in activities you enjoy, connect with others, and consider speaking with a mental health professional to explore underlying causes."
+    },
+    {
+        "QuestionText": "I feel emotionally drained after social interactions. Why does this happen?",
+        "Topic": "social fatigue",
+        "AnswerText": "Social interactions can be tiring, especially for introverts. Make time for self-care and rest after social events to recharge."
+    },
+    {
+        "QuestionText": "I’m afraid of failing. How can I overcome my fear of failure?",
+        "Topic": "fear of failure",
+        "AnswerText": "Reframe failure as an opportunity for growth. Learn from setbacks and remember that everyone faces challenges on their journey."
+    },
+    {
+        "QuestionText": "I feel disconnected from my emotions. How can I reconnect with them?",
+        "Topic": "emotional disconnection",
+        "AnswerText": "Practice mindfulness and check in with yourself regularly. Journaling or speaking with a therapist can help you reconnect with your emotions."
+    },
+    {
+        "QuestionText": "I feel like I’m losing control of my life. How can I regain stability?",
+        "Topic": "loss of control",
+        "AnswerText": "Take small, deliberate actions each day to create structure. Focus on what you can control, and don’t hesitate to reach out for support."
+    },
+    {
+        "QuestionText": "I feel like no one listens to me. What can I do?",
+        "Topic": "feeling unheard",
+        "AnswerText": "Express your feelings clearly and assertively. Engage in active listening and seek relationships where mutual respect and understanding are prioritized."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by everything happening in the world. How can I cope?",
+        "Topic": "world anxiety",
+        "AnswerText": "Limit your exposure to distressing news, focus on small actions you can take, and engage in self-care practices to protect your mental well-being."
+    },
+    {
+        "QuestionText": "I feel like I’m not living up to my potential. How can I improve?",
+        "Topic": "potential",
+        "AnswerText": "Set realistic, achievable goals and work towards them gradually. Remember that growth is a process, and your potential is not a destination but a journey."
+    },
+    {
+        "QuestionText": "I feel uncertain about my future. How can I gain clarity?",
+        "Topic": "uncertainty",
+        "AnswerText": "Break down your fears and uncertainties into manageable pieces. Focus on what you can control and take proactive steps to shape your future."
+    },
+    {
+        "QuestionText": "I’m always afraid of making the wrong choice. How can I trust my decisions?",
+        "Topic": "decision-making",
+        "AnswerText": "Trust your intuition and gather as much information as possible before making decisions. Allow yourself to make mistakes and learn from them."
+    },
+    {
+        "QuestionText": "I feel trapped in my current situation. How can I change my circumstances?",
+        "Topic": "feeling trapped",
+        "AnswerText": "Take small, actionable steps toward change. Set realistic goals and be patient with the process of transformation."
+    },
+    {
+        "QuestionText": "I feel like my emotions are controlling me. How can I regain control?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Practice mindfulness and grounding techniques. Learn to observe your emotions without judgment and respond thoughtfully rather than react impulsively."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by expectations. How can I manage these pressures?",
+        "Topic": "pressure",
+        "AnswerText": "Identify the sources of pressure, prioritize your well-being, and set healthy boundaries to manage expectations from yourself and others."
+    },
+    {
+        "QuestionText": "I feel like I'm always chasing after something. How can I feel content?",
+        "Topic": "contentment",
+        "AnswerText": "Practice mindfulness and gratitude. Focus on the present moment and appreciate what you already have, instead of constantly seeking more."
+    },
+    {
+        "QuestionText": "I'm always comparing myself to others on social media. How can I stop?",
+        "Topic": "social media comparison",
+        "AnswerText": "Remember that social media often shows a curated version of people's lives. Focus on your own journey and practice self-compassion."
+    },
+    {
+        "QuestionText": "I feel like I don’t belong anywhere. What can I do?",
+        "Topic": "belonging",
+        "AnswerText": "Seek out communities or activities that align with your values. Building connections with like-minded people can help you feel more at home."
+    },
+    {
+        "QuestionText": "I'm overwhelmed by negative emotions. How can I process them?",
+        "Topic": "emotional overwhelm",
+        "AnswerText": "Allow yourself to feel your emotions without judgment. Journaling, talking with someone you trust, or practicing mindfulness can help process them."
+    },
+    {
+        "QuestionText": "I have a hard time forgiving myself. How can I let go of guilt?",
+        "Topic": "self-forgiveness",
+        "AnswerText": "Recognize that making mistakes is part of being human. Practice self-compassion and learn from your experiences, instead of holding on to guilt."
+    },
+    {
+        "QuestionText": "I'm constantly worrying about the future. How can I stop this anxiety?",
+        "Topic": "future anxiety",
+        "AnswerText": "Practice grounding techniques to stay in the present moment. Break tasks into smaller steps to avoid feeling overwhelmed by the future."
+    },
+    {
+        "QuestionText": "I feel like I’ve lost my passion for life. How can I find it again?",
+        "Topic": "lack of passion",
+        "AnswerText": "Try exploring new hobbies or revisiting old interests. Set small, achievable goals that bring you joy, and focus on rediscovering what excites you."
+    },
+    {
+        "QuestionText": "I'm struggling to manage my anger. How can I control it better?",
+        "Topic": "anger management",
+        "AnswerText": "Practice deep breathing, count to ten, or remove yourself from the situation to calm down. Regular physical exercise can also help release pent-up anger."
+    },
+    {
+        "QuestionText": "I feel like I’m not living my truth. How can I change that?",
+        "Topic": "authenticity",
+        "AnswerText": "Take time to reflect on your core values and beliefs. Make choices that align with your true self and seek environments that encourage authenticity."
+    },
+    {
+        "QuestionText": "I feel emotionally drained by my relationships. How can I protect my energy?",
+        "Topic": "relationship burnout",
+        "AnswerText": "Set healthy boundaries and practice self-care. It's okay to take a break from relationships that feel draining and focus on your own well-being."
+    },
+    {
+        "QuestionText": "I'm always looking for approval from others. How can I stop seeking validation?",
+        "Topic": "external validation",
+        "AnswerText": "Focus on self-validation by recognizing your own worth. Practice affirmations and remind yourself that your value isn’t determined by others' opinions."
+    },
+    {
+        "QuestionText": "I feel stuck in my career. How can I move forward?",
+        "Topic": "career stagnation",
+        "AnswerText": "Consider exploring new opportunities, building new skills, or seeking mentorship. Sometimes small changes can reignite your passion and drive."
+    },
+    {
+        "QuestionText": "I feel like I can't do anything right. How can I build confidence?",
+        "Topic": "low self-esteem",
+        "AnswerText": "Celebrate small victories and acknowledge your achievements. Set realistic goals and focus on progress, not perfection."
+    },
+    {
+        "QuestionText": "I feel like I’m always giving and never receiving. How can I find balance?",
+        "Topic": "people-pleasing",
+        "AnswerText": "Learn to say no when necessary and prioritize your own needs. Healthy relationships are reciprocal, and it’s important to take care of yourself too."
+    },
+    {
+        "QuestionText": "I feel constantly overwhelmed by everything on my plate. How can I manage better?",
+        "Topic": "overwhelm",
+        "AnswerText": "Prioritize tasks based on urgency and importance. Delegate when possible and remember that it's okay to ask for help when you need it."
+    },
+    {
+        "QuestionText": "I feel like I have no control over my emotions. What can I do?",
+        "Topic": "emotional control",
+        "AnswerText": "Practice mindfulness and deep breathing to regulate your emotions. Journaling can also help process feelings and gain clarity."
+    },
+    {
+        "QuestionText": "I’m afraid of disappointing others. How can I manage this fear?",
+        "Topic": "fear of disappointment",
+        "AnswerText": "Remember that no one is perfect. Set realistic expectations for yourself and communicate openly with others about your limits."
+    },
+    {
+        "QuestionText": "I feel like I can't trust anyone anymore. How can I rebuild trust?",
+        "Topic": "trust issues",
+        "AnswerText": "Start by being open and honest in your relationships. Take small steps toward rebuilding trust, and remember that healing takes time."
+    },
+    {
+        "QuestionText": "I feel like I’m constantly fighting with my partner. What can I do?",
+        "Topic": "relationship conflict",
+        "AnswerText": "Communication is key. Practice active listening, express your feelings calmly, and work together to resolve conflicts rather than escalate them."
+    },
+    {
+        "QuestionText": "I feel like I can’t keep up with everything. How can I manage my responsibilities?",
+        "Topic": "responsibility overload",
+        "AnswerText": "Break down tasks into smaller, more manageable pieces. Don’t be afraid to delegate tasks and take time for yourself when needed."
+    },
+    {
+        "QuestionText": "I feel like I’m losing touch with my friends. How can I reconnect?",
+        "Topic": "friendship",
+        "AnswerText": "Reach out with a simple message or invite them to do something you both enjoy. Rebuilding connections requires effort and consistency."
+    },
+    {
+        "QuestionText": "I’m overwhelmed by stress at work. How can I manage better?",
+        "Topic": "work stress",
+        "AnswerText": "Take breaks, set clear boundaries, and prioritize tasks to manage stress. Consider discussing workload concerns with your supervisor if needed."
+    },
+    {
+        "QuestionText": "I feel like I’m not achieving enough. How can I set realistic goals?",
+        "Topic": "goal setting",
+        "AnswerText": "Set specific, measurable, achievable, relevant, and time-bound (SMART) goals. Break them into smaller steps and celebrate progress along the way."
+    },
+    {
+        "QuestionText": "I feel anxious before important events. How can I calm my nerves?",
+        "Topic": "pre-event anxiety",
+        "AnswerText": "Practice deep breathing, visualization, or progressive muscle relaxation before the event. Focus on the process rather than the outcome."
+    },
+    {
+        "QuestionText": "I feel like I can’t cope with life. How can I build resilience?",
+        "Topic": "resilience",
+        "AnswerText": "Focus on strengthening your coping strategies, such as self-compassion, social support, and problem-solving. Build small successes and learn from challenges."
+    },
+    {
+        "QuestionText": "I feel like I’m always angry. How can I manage my anger better?",
+        "Topic": "anger management",
+        "AnswerText": "Recognize the early signs of anger and use relaxation techniques to calm down. Practice reframing negative thoughts and engage in physical activity to release tension."
+    },
+    {
+        "QuestionText": "I’m afraid of making the wrong decision. How can I feel more confident in my choices?",
+        "Topic": "decision-making",
+        "AnswerText": "Make decisions based on your values and priorities. Trust your intuition, and remember that you can always learn and grow from your choices."
+    },
+    {
+        "QuestionText": "I feel like I’m not enough. How can I improve my self-worth?",
+        "Topic": "self-esteem",
+        "AnswerText": "Focus on your strengths and unique qualities. Practice self-compassion and challenge negative thoughts about yourself with more balanced perspectives."
+    },
+    {
+        "QuestionText": "I feel like I’m always under pressure. How can I reduce stress?",
+        "Topic": "pressure",
+        "AnswerText": "Identify the sources of pressure and take proactive steps to manage them. Practice relaxation techniques, such as deep breathing and mindfulness, to relieve stress."
+    },
+    {
+        "QuestionText": "I’m feeling sad and can’t shake it. What can I do to feel better?",
+        "Topic": "persistent sadness",
+        "AnswerText": "Engage in activities that bring you joy, talk to someone you trust, and consider speaking with a mental health professional for support."
+    },
+    {
+        "QuestionText": "I feel like my life has no purpose. How can I find meaning?",
+        "Topic": "purpose",
+        "AnswerText": "Explore what brings you fulfillment and joy. Reflect on your values and passions, and consider setting goals that align with them to create a sense of purpose."
+    },
+    {
+        "QuestionText": "I feel like I can't handle my responsibilities anymore. What can I do?",
+        "Topic": "responsibility",
+        "AnswerText": "Break tasks into smaller, manageable steps and prioritize what's most important. Delegate or ask for help if possible, and take time for self-care."
+    },
+    {
+        "QuestionText": "I'm struggling to maintain a healthy routine. How can I stick to one?",
+        "Topic": "routine",
+        "AnswerText": "Start with small, achievable goals and build gradually. Consistency is key, so be patient with yourself and celebrate progress, no matter how small."
+    },
+    {
+        "QuestionText": "I feel disconnected from others. How can I strengthen my relationships?",
+        "Topic": "relationships",
+        "AnswerText": "Focus on open, honest communication and spend quality time with loved ones. Prioritize empathy and make efforts to listen actively and support each other."
+    },
+    {
+        "QuestionText": "I feel like I'm always busy but not getting anything done. What can I do?",
+        "Topic": "productivity",
+        "AnswerText": "Identify the tasks that matter most and focus on those. Use time-blocking or other productivity techniques to stay organized and reduce distractions."
+    },
+    {
+        "QuestionText": "I keep replaying negative thoughts in my head. How can I stop?",
+        "Topic": "negative thoughts",
+        "AnswerText": "Challenge negative thoughts by asking if they are true or helpful. Replace them with more positive or realistic alternatives. Practice mindfulness to stay grounded."
+    },
+    {
+        "QuestionText": "I feel anxious about meeting new people. How can I overcome this fear?",
+        "Topic": "social anxiety",
+        "AnswerText": "Start with small social interactions and gradually build confidence. Practice positive self-talk and remind yourself that it’s okay to feel nervous."
+    },
+    {
+        "QuestionText": "I'm having trouble balancing work and personal life. What can I do?",
+        "Topic": "work-life balance",
+        "AnswerText": "Set clear boundaries between work and personal time. Prioritize your well-being by scheduling time for relaxation, hobbies, and socializing."
+    },
+    {
+        "QuestionText": "I feel like I'm not good enough for my partner. How can I feel more secure?",
+        "Topic": "relationship insecurity",
+        "AnswerText": "Communicate openly with your partner about your feelings. Focus on building self-confidence and trust in the relationship, and remind yourself of your worth."
+    },
+    {
+        "QuestionText": "I'm afraid of being judged. How can I overcome this fear?",
+        "Topic": "fear of judgment",
+        "AnswerText": "Remind yourself that people are often too focused on their own lives to judge you. Practice self-acceptance and embrace the idea that being authentic is empowering."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by everything going on in my life. How can I cope?",
+        "Topic": "overwhelm",
+        "AnswerText": "Take a step back and prioritize tasks. Practice mindfulness to stay grounded, and break down tasks into smaller, more manageable parts to reduce stress."
+    },
+    {
+        "QuestionText": "I feel like I'm always on edge. How can I relax?",
+        "Topic": "relaxation",
+        "AnswerText": "Practice relaxation techniques like deep breathing, progressive muscle relaxation, or meditation. Engaging in physical activities like yoga or walking can also help."
+    },
+    {
+        "QuestionText": "I feel like my anxiety is taking over my life. What can I do?",
+        "Topic": "anxiety",
+        "AnswerText": "Consider practicing grounding exercises, focusing on your breathing, and seeking professional help if needed. Regular exercise and a balanced routine can also alleviate anxiety."
+    },
+    {
+        "QuestionText": "I feel isolated and alone. What can I do to feel more connected?",
+        "Topic": "loneliness",
+        "AnswerText": "Reach out to friends or family for support, or consider joining a community group or activity that interests you. Volunteering can also help create meaningful connections."
+    },
+    {
+        "QuestionText": "I feel like I'm stuck in a rut. How can I make a change?",
+        "Topic": "stagnation",
+        "AnswerText": "Start by setting small, achievable goals to break the monotony. Trying new activities or exploring new environments can also bring fresh perspectives."
+    },
+    {
+        "QuestionText": "I feel like I'm not achieving anything. How can I stay motivated?",
+        "Topic": "motivation",
+        "AnswerText": "Set clear, meaningful goals and break them into smaller steps. Celebrate progress along the way and remind yourself of your purpose to stay motivated."
+    },
+    {
+        "QuestionText": "I feel like my self-worth depends on my achievements. How can I change this?",
+        "Topic": "self-worth",
+        "AnswerText": "Recognize that your worth is inherent, not based on achievements. Practice self-compassion and focus on your qualities and values rather than external validation."
+    },
+    {
+        "QuestionText": "I'm always worried about what others think of me. How can I stop?",
+        "Topic": "social anxiety",
+        "AnswerText": "Focus on self-acceptance and remind yourself that you can't control others' thoughts. Practice letting go of the need for external validation and embrace your authentic self."
+    },
+    {
+        "QuestionText": "I'm feeling down and don’t know why. What can I do?",
+        "Topic": "mood fluctuation",
+        "AnswerText": "Reflect on possible causes of your feelings, such as lack of sleep or stress. Engage in self-care activities like exercise, journaling, or talking with someone you trust."
+    },
+    {
+        "QuestionText": "I feel like I'm constantly in a bad mood. How can I change that?",
+        "Topic": "mood management",
+        "AnswerText": "Focus on gratitude and reframe negative thoughts. Practice relaxation techniques, get regular physical activity, and ensure you have healthy sleep habits."
+    },
+    {
+        "QuestionText": "I feel exhausted all the time. How can I boost my energy?",
+        "Topic": "fatigue",
+        "AnswerText": "Ensure you're getting enough sleep, eating a balanced diet, and exercising regularly. Take breaks throughout the day to recharge and avoid overworking yourself."
+    },
+    {
+        "QuestionText": "I’m worried about my mental health. What should I do?",
+        "Topic": "mental health concerns",
+        "AnswerText": "If you're feeling overwhelmed, consider speaking with a mental health professional. Practicing self-care, engaging in supportive activities, and connecting with others can also help."
+    },
+    {
+        "QuestionText": "I feel guilty for taking time for myself. How can I overcome this?",
+        "Topic": "guilt",
+        "AnswerText": "Remember that self-care is essential for your well-being. Taking time for yourself allows you to recharge and be more present for others."
+    },
+    {
+        "QuestionText": "I feel like I'm always pleasing others. How can I focus more on myself?",
+        "Topic": "people-pleasing",
+        "AnswerText": "Set clear boundaries and prioritize your own needs. Practice saying no when necessary and focus on self-compassion."
+    },
+    {
+        "QuestionText": "I’m feeling disconnected from my emotions. How can I reconnect?",
+        "Topic": "emotional disconnection",
+        "AnswerText": "Spend time reflecting on your feelings through journaling, meditation, or talking with a therapist. Mindfulness practices can also help you reconnect with your emotions."
+    },
+    {
+        "QuestionText": "I feel like I’m constantly doubting myself. How can I build confidence?",
+        "Topic": "self-doubt",
+        "AnswerText": "Challenge negative self-talk and focus on your strengths. Set small goals to build confidence and celebrate each success along the way."
+    },
+    {
+        "QuestionText": "I feel like I’ve lost interest in everything. How can I regain my motivation?",
+        "Topic": "loss of interest",
+        "AnswerText": "Try new activities to stimulate your curiosity and creativity. Setting small, meaningful goals can also help you regain a sense of purpose."
+    },
+    {
+        "QuestionText": "I feel anxious about change. How can I handle it better?",
+        "Topic": "fear of change",
+        "AnswerText": "Acknowledge your feelings and take small steps toward embracing change. Focus on the opportunities it may bring and remind yourself that change is a natural part of life."
+    },
+    {
+        "QuestionText": "I feel like I can't cope with stress anymore. What can I do?",
+        "Topic": "stress management",
+        "AnswerText": "Take breaks throughout the day, practice relaxation techniques, and consider speaking with a therapist if stress is overwhelming. Exercise and mindfulness can also help manage stress."
+    },
+    {
+        "QuestionText": "I feel like I’m constantly on autopilot. How can I be more present?",
+        "Topic": "mindfulness",
+        "AnswerText": "Practice mindfulness techniques, such as deep breathing or focusing on the present moment. Take time to slow down and engage fully in each experience."
+    },
+    {
+        "QuestionText": "I feel like I’m carrying too much emotional weight. How can I lighten the load?",
+        "Topic": "emotional burden",
+        "AnswerText": "Talk to someone you trust or seek therapy to help process your emotions. Practice self-care and take time for activities that help you relax and rejuvenate."
+    },
+    {
+        "QuestionText": "I feel like I can’t express myself. How can I start?",
+        "Topic": "self-expression",
+        "AnswerText": "Start by journaling or talking to someone you trust. Expressing yourself creatively, such as through art or music, can also help you feel more in tune with your emotions."
+    },
+    {
+        "QuestionText": "I feel like I’m failing at everything. What should I do?",
+        "Topic": "failure",
+        "AnswerText": "Remember that failure is a part of growth. Reflect on what you've learned from each experience and focus on taking small steps toward progress."
+    },
+    {
+        "QuestionText": "I can’t seem to focus. What can I do to improve my concentration?",
+        "Topic": "focus",
+        "AnswerText": "Create a distraction-free environment, break tasks into smaller chunks, and try techniques like the Pomodoro method. Regular breaks and mindfulness can also improve focus."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by my emotions. How can I manage them better?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Practice mindfulness and grounding techniques to stay in the moment. Journaling, deep breathing, and seeking professional support can also help you manage emotions."
+    },
+    {
+        "QuestionText": "I’m always so tired. How can I improve my sleep?",
+        "Topic": "sleep",
+        "AnswerText": "Create a calming bedtime routine, avoid caffeine in the evening, and ensure your sleep environment is comfortable. Try to maintain a regular sleep schedule."
+    },
+    {
+        "QuestionText": "I feel like I’m not good enough. How can I change this mindset?",
+        "Topic": "self-worth",
+        "AnswerText": "Practice self-compassion and remind yourself of your strengths and accomplishments. Reflect on your personal values and recognize that you are worthy as you are."
+    },
+    {
+        "QuestionText": "I’m struggling with perfectionism. How can I overcome it?",
+        "Topic": "perfectionism",
+        "AnswerText": "Accept that mistakes are part of life and growth. Set realistic expectations for yourself, and focus on progress rather than perfection. Take breaks to reduce stress."
+    },
+    {
+        "QuestionText": "I feel stuck in my career. How can I make a change?",
+        "Topic": "career development",
+        "AnswerText": "Reflect on your passions and skills, and consider exploring new opportunities that align with your values. Networking, learning new skills, and seeking mentorship can also help."
+    },
+    {
+        "QuestionText": "I feel like I’m constantly comparing myself to others. How can I stop?",
+        "Topic": "comparison",
+        "AnswerText": "Focus on your own growth and accomplishments. Remind yourself that everyone's journey is different, and compare yourself only to who you were yesterday."
+    },
+    {
+        "QuestionText": "I’m struggling to manage my anger. How can I improve?",
+        "Topic": "anger management",
+        "AnswerText": "Practice deep breathing or counting to ten before reacting. Regular physical activity, mindfulness, and seeking therapy can also help you manage anger in a healthy way."
+    },
+    {
+        "QuestionText": "I feel like I can’t trust anyone. How can I build trust again?",
+        "Topic": "trust",
+        "AnswerText": "Start by rebuilding trust with yourself. Take small steps to connect with others, set boundaries, and communicate openly. Healing takes time, so be patient with yourself."
+    },
+    {
+        "QuestionText": "I’m feeling constantly anxious about the future. How can I cope?",
+        "Topic": "future anxiety",
+        "AnswerText": "Focus on the present moment and take things one step at a time. Practice mindfulness, limit exposure to stressors, and consider setting small, achievable goals."
+    },
+    {
+        "QuestionText": "I feel like I'm in a toxic relationship. How can I handle it?",
+        "Topic": "toxic relationships",
+        "AnswerText": "Recognize your worth and set healthy boundaries. If necessary, seek professional support to help you navigate the relationship and decide what’s best for your well-being."
+    },
+    {
+        "QuestionText": "I’m not feeling motivated to exercise. How can I get back into it?",
+        "Topic": "exercise motivation",
+        "AnswerText": "Start small and set achievable fitness goals. Find an activity you enjoy, and remind yourself of the mental and physical benefits of regular exercise."
+    },
+    {
+        "QuestionText": "I’m dealing with constant self-criticism. How can I stop being so hard on myself?",
+        "Topic": "self-criticism",
+        "AnswerText": "Practice self-compassion and challenge negative thoughts. Treat yourself with the same kindness you would offer a friend, and focus on progress rather than perfection."
+    },
+    {
+        "QuestionText": "I’m feeling really unmotivated at work. What can I do?",
+        "Topic": "work motivation",
+        "AnswerText": "Identify what aspects of your job bring you satisfaction and focus on those. Take regular breaks, set small goals, and consider discussing your feelings with a manager or mentor."
+    },
+    {
+        "QuestionText": "I feel like I'm always busy but not accomplishing much. How can I improve?",
+        "Topic": "productivity",
+        "AnswerText": "Prioritize your tasks and break them into smaller steps. Use time-management techniques like the Pomodoro method to stay focused and avoid distractions."
+    },
+    {
+        "QuestionText": "I can’t seem to let go of my past mistakes. How can I move on?",
+        "Topic": "letting go",
+        "AnswerText": "Forgive yourself and accept that mistakes are a part of growth. Reflect on what you’ve learned and focus on making positive changes moving forward."
+    },
+    {
+        "QuestionText": "I’m struggling to set boundaries with others. How can I improve?",
+        "Topic": "boundaries",
+        "AnswerText": "Start by identifying your needs and communicating them clearly. Practice saying no when necessary, and be consistent in maintaining healthy boundaries with others."
+    },
+    {
+        "QuestionText": "I feel like I'm always stuck in a cycle of negative thinking. How can I break free?",
+        "Topic": "negative thinking",
+        "AnswerText": "Challenge your negative thoughts by asking if they are helpful or true. Practice replacing them with positive or realistic thoughts, and engage in activities that bring you joy."
+    },
+    {
+        "QuestionText": "I’m feeling disconnected from my body. How can I reconnect?",
+        "Topic": "body disconnect",
+        "AnswerText": "Engage in mindfulness practices like yoga, deep breathing, or body scanning. Take time to listen to your body’s needs and honor them with care and respect."
+    },
+    {
+        "QuestionText": "I’m feeling emotionally exhausted. How can I recharge?",
+        "Topic": "emotional exhaustion",
+        "AnswerText": "Take time for self-care activities like resting, journaling, or meditating. Engage in activities that bring you joy and consider setting boundaries to avoid burnout."
+    },
+    {
+        "QuestionText": "I feel like I can’t trust my own judgment. How can I regain confidence?",
+        "Topic": "self-doubt",
+        "AnswerText": "Reflect on past experiences where your judgment was accurate. Take small steps to trust yourself, and seek support from trusted friends or a therapist to build confidence."
+    },
+    {
+        "QuestionText": "I feel like I’m constantly failing. How can I change my perspective?",
+        "Topic": "failure",
+        "AnswerText": "Shift your focus from failure to growth. Each setback is an opportunity to learn and improve. Celebrate small victories and be patient with yourself."
+    },
+    {
+        "QuestionText": "I feel like I’m not in control of my life. How can I regain control?",
+        "Topic": "control",
+        "AnswerText": "Identify areas where you can make small, positive changes. Set achievable goals and focus on what you can control. Practice letting go of things outside your influence."
+    },
+    {
+        "QuestionText": "I’m feeling drained from constantly giving to others. How can I recharge?",
+        "Topic": "giving",
+        "AnswerText": "Prioritize self-care and set boundaries to protect your energy. Remember that it’s okay to say no and that taking time for yourself is essential for maintaining balance."
+    },
+    {
+        "QuestionText": "I feel like I'm not good enough to pursue my dreams. What should I do?",
+        "Topic": "self-worth",
+        "AnswerText": "It's common to feel this way, but remember that everyone has their own journey. Start by setting small, realistic goals and celebrate your progress along the way."
+    },
+    {
+        "QuestionText": "I’m feeling socially anxious. How can I manage this?",
+        "Topic": "social anxiety",
+        "AnswerText": "Start with small, manageable social situations. Practice deep breathing and challenge negative thoughts. Gradually expose yourself to more social interactions to build confidence."
+    },
+    {
+        "QuestionText": "I feel overwhelmed with all my responsibilities. How can I handle it better?",
+        "Topic": "overwhelm",
+        "AnswerText": "Prioritize your tasks and break them into smaller steps. Delegate when possible, and remember to take breaks and practice self-care to avoid burnout."
+    },
+    {
+        "QuestionText": "I’m having trouble letting go of past relationships. How can I heal?",
+        "Topic": "moving on",
+        "AnswerText": "Acknowledge your feelings, but also recognize that healing takes time. Consider seeking support from friends or a therapist, and focus on building a positive future for yourself."
+    },
+    {
+        "QuestionText": "I’m struggling to stay motivated. What can I do?",
+        "Topic": "motivation",
+        "AnswerText": "Break your goals into smaller, achievable steps. Celebrate your progress along the way, and try to stay focused on the reasons why your goals are important to you."
+    },
+    {
+        "QuestionText": "I feel constantly stressed at work. How can I manage my stress?",
+        "Topic": "work stress",
+        "AnswerText": "Set clear boundaries, take regular breaks, and practice relaxation techniques. Organize tasks, delegate when possible, and consider talking to a manager about your workload."
+    },
+    {
+        "QuestionText": "I’m struggling to find balance between work and life. How can I improve?",
+        "Topic": "work-life balance",
+        "AnswerText": "Set boundaries between work and personal life. Make time for hobbies, socializing, and relaxation. Prioritize self-care and be mindful of your emotional needs."
+    },
+    {
+        "QuestionText": "I feel like my life is too monotonous. How can I add more excitement?",
+        "Topic": "monotony",
+        "AnswerText": "Try exploring new activities or hobbies that interest you. Take time to travel, even if it’s just to nearby places, and try to break your routine with something spontaneous."
+    },
+    {
+        "QuestionText": "I’m feeling overwhelmed by my emotions. How can I cope?",
+        "Topic": "emotional overwhelm",
+        "AnswerText": "Take deep breaths, practice grounding techniques, and give yourself time to process your emotions. Journaling or talking to someone you trust can also help release the emotional load."
+    },
+    {
+        "QuestionText": "I feel disconnected from my friends. How can I strengthen my relationships?",
+        "Topic": "relationships",
+        "AnswerText": "Reach out and be honest about how you’re feeling. Spend quality time together and listen actively. Communication and mutual support can help rebuild connections."
+    },
+    {
+        "QuestionText": "I often feel like I’m just going through the motions. How can I find more purpose?",
+        "Topic": "purpose",
+        "AnswerText": "Reflect on your values and passions. Set meaningful goals and take small steps toward what excites you. Volunteering or pursuing creative interests can also provide a sense of purpose."
+    },
+    {
+        "QuestionText": "I feel stuck in my current situation. How can I make a change?",
+        "Topic": "stagnation",
+        "AnswerText": "Start by identifying what aspects of your life you'd like to change. Set achievable goals and take small steps. Seek support from a mentor or therapist for guidance."
+    },
+    {
+        "QuestionText": "I feel anxious about social gatherings. How can I prepare for them?",
+        "Topic": "social anxiety",
+        "AnswerText": "Prepare by setting realistic expectations for yourself. Practice relaxation techniques, and remember that it's okay to take breaks or leave if you need to. Focus on the present moment."
+    },
+    {
+        "QuestionText": "I feel like I'm not achieving my goals. What should I do?",
+        "Topic": "goal achievement",
+        "AnswerText": "Reevaluate your goals and break them into smaller steps. Celebrate small successes along the way, and don’t be too hard on yourself. Consistency is key to progress."
+    },
+    {
+        "QuestionText": "I feel like I’m not being true to myself. How can I find authenticity?",
+        "Topic": "authenticity",
+        "AnswerText": "Reflect on your values and what truly matters to you. Start by making small decisions that align with your authentic self, and give yourself permission to let go of what no longer serves you."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by negative thoughts. How can I improve my mental health?",
+        "Topic": "negative thinking",
+        "AnswerText": "Challenge negative thoughts by questioning their validity. Practice gratitude and focus on positive affirmations. Engaging in mindfulness or seeking therapy can also help reframe your mindset."
+    },
+    {
+        "QuestionText": "I’m feeling lonely. How can I cope with loneliness?",
+        "Topic": "loneliness",
+        "AnswerText": "Reach out to friends or family for support, or consider joining social activities or groups that interest you. Volunteering can also help you connect with others and feel more fulfilled."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by my past mistakes. How can I move forward?",
+        "Topic": "regret",
+        "AnswerText": "Forgive yourself and reflect on what you’ve learned. Use your past experiences as lessons for personal growth and focus on making positive changes moving forward."
+    },
+    {
+        "QuestionText": "I’m struggling with my self-image. How can I improve my body confidence?",
+        "Topic": "body image",
+        "AnswerText": "Practice self-compassion and challenge negative body thoughts. Focus on what your body can do rather than how it looks, and surround yourself with positive influences."
+    },
+    {
+        "QuestionText": "I feel like I'm not living up to my potential. How can I make a change?",
+        "Topic": "personal growth",
+        "AnswerText": "Set small, achievable goals and take time to reflect on your values and passions. Break large tasks into manageable steps and celebrate your progress along the way."
+    },
+    {
+        "QuestionText": "I feel like I’m always stuck in my head. How can I quiet my mind?",
+        "Topic": "mindfulness",
+        "AnswerText": "Practice mindfulness techniques such as deep breathing, meditation, or yoga. Focus on the present moment and gently redirect your thoughts when they become overwhelming."
+    },
+    {
+        "QuestionText": "I’m feeling overwhelmed by my finances. How can I cope with money stress?",
+        "Topic": "financial stress",
+        "AnswerText": "Create a budget to manage your finances and seek financial advice if necessary. Take small steps to reduce debt and focus on making mindful financial decisions."
+    },
+    {
+        "QuestionText": "I feel disconnected from my purpose. How can I reconnect?",
+        "Topic": "purpose",
+        "AnswerText": "Spend time reflecting on your passions and values. Set goals that align with your deeper sense of meaning and pursue activities that inspire you."
+    },
+    {
+        "QuestionText": "I feel like I don’t have enough time for myself. How can I prioritize self-care?",
+        "Topic": "self-care",
+        "AnswerText": "Start by setting boundaries and saying no to things that drain your energy. Schedule regular breaks, engage in activities that bring you joy, and make time for rest."
+    },
+    {
+        "QuestionText": "I’m feeling drained from caring for others. How can I take care of myself?",
+        "Topic": "caregiver burnout",
+        "AnswerText": "It's important to take time for yourself. Set boundaries and ask for support. Schedule regular breaks, engage in activities that replenish your energy, and prioritize self-care."
+    },
+    {
+        "QuestionText": "I can’t seem to stop thinking about past events. How can I stop ruminating?",
+        "Topic": "rumination",
+        "AnswerText": "Challenge negative thoughts by shifting your focus to the present. Practice mindfulness, engage in a hobby, or talk to a therapist to work through your thoughts and feelings."
+    },
+    {
+        "QuestionText": "I feel like I’m stuck in a rut. How can I make a change?",
+        "Topic": "change",
+        "AnswerText": "Identify small changes you can make and set realistic goals. Take baby steps toward new routines, and be kind to yourself if progress is slow. Change takes time."
+    },
+    {
+        "QuestionText": "I feel disconnected from my emotions. How can I reconnect?",
+        "Topic": "emotional connection",
+        "AnswerText": "Take time to sit quietly and check in with yourself. Journaling, mindfulness, or talking with a trusted person can help you reconnect with your feelings."
+    },
+    {
+        "QuestionText": "I feel anxious about making decisions. How can I trust myself more?",
+        "Topic": "decision-making",
+        "AnswerText": "Start by reflecting on past decisions where you felt confident. Take your time with decisions, and trust your intuition. Practice making small decisions to build confidence."
+    },
+    {
+        "QuestionText": "I’m feeling overwhelmed by my responsibilities. How can I cope with it?",
+        "Topic": "responsibility",
+        "AnswerText": "Break down your tasks into smaller, manageable steps. Prioritize what’s most important and ask for help if needed. Remember to take breaks and practice self-care."
+    },
+    {
+        "QuestionText": "I feel like I can’t trust my partner anymore. How can I rebuild trust?",
+        "Topic": "relationships",
+        "AnswerText": "Open communication is key. Be honest about your feelings, listen actively, and work together to rebuild trust. It may take time, but patience and effort can help."
+    },
+    {
+        "QuestionText": "I feel disconnected from my purpose in life. How can I find my direction?",
+        "Topic": "purpose",
+        "AnswerText": "Reflect on what makes you feel fulfilled and energized. Set goals aligned with your passions and values. Consider exploring new hobbies or activities that spark your curiosity."
+    },
+    {
+        "QuestionText": "I feel like I’m not doing enough. How can I deal with this pressure?",
+        "Topic": "pressure",
+        "AnswerText": "Recognize that you don’t have to be perfect. Focus on progress, not perfection. Take breaks, practice mindfulness, and remind yourself that it’s okay to rest."
+    },
+    {
+        "QuestionText": "I feel disconnected from my friends. How can I reconnect?",
+        "Topic": "friendship",
+        "AnswerText": "Reach out to your friends and express your feelings. Plan activities that you enjoy together, and take time to listen and connect on a deeper level."
+    },
+    {
+        "QuestionText": "I feel like I’m not being heard. How can I communicate better?",
+        "Topic": "communication",
+        "AnswerText": "Practice active listening and be open about your feelings. Use “I” statements to express yourself clearly, and encourage open, respectful dialogue with others."
+    },
+    {
+        "QuestionText": "I feel like I’m too busy to relax. How can I make time for rest?",
+        "Topic": "relaxation",
+        "AnswerText": "Prioritize self-care by scheduling rest and relaxation time. Set boundaries with work and responsibilities, and make sure to engage in activities that help you unwind."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by uncertainty. How can I cope with it?",
+        "Topic": "uncertainty",
+        "AnswerText": "Focus on what you can control in the present moment. Practice mindfulness, take small actions toward your goals, and remind yourself that uncertainty is a natural part of life."
+    },
+    {
+        "QuestionText": "I feel like I’ve lost my motivation. How can I find it again?",
+        "Topic": "motivation",
+        "AnswerText": "Revisit your goals and break them down into smaller steps. Reflect on your why and make a plan to take small, achievable actions. Remember, progress is progress, no matter how small."
+    },
+    {
+        "QuestionText": "I feel like I’m not accomplishing enough. How can I stop feeling inadequate?",
+        "Topic": "inadequacy",
+        "AnswerText": "Shift your focus to what you’ve already accomplished. Practice self-compassion and celebrate your efforts. It's okay to take breaks and recognize that you're doing your best."
+    },
+    {
+        "QuestionText": "I feel like I'm always overwhelmed. How can I deal with stress better?",
+        "Topic": "stress",
+        "AnswerText": "Practice relaxation techniques such as deep breathing, yoga, or meditation. Break tasks into smaller, manageable steps and take regular breaks to reduce stress."
+    },
+    {
+        "QuestionText": "I feel like I don’t fit in. How can I build a sense of belonging?",
+        "Topic": "belonging",
+        "AnswerText": "Engage in activities that interest you and meet like-minded people. Building connections takes time, so be patient and kind to yourself as you find your tribe."
+    },
+    {
+        "QuestionText": "I’m feeling disconnected from my body. How can I improve my body awareness?",
+        "Topic": "body awareness",
+        "AnswerText": "Practice mindfulness, yoga, or body scanning techniques. Take time to listen to your body’s signals, and engage in activities that help you feel grounded and present."
+    },
+    {
+        "QuestionText": "I feel like I'm constantly comparing myself to others. How can I stop?",
+        "Topic": "comparison",
+        "AnswerText": "Focus on your own progress and growth. Practice gratitude and remind yourself that everyone has their own journey. Celebrate your unique qualities and strengths."
+    },
+    {
+        "QuestionText": "I feel like I can't express my emotions. How can I open up more?",
+        "Topic": "emotional expression",
+        "AnswerText": "Start by journaling or talking to someone you trust. Practice expressing yourself through art, music, or creative outlets. Therapy can also be a safe space to explore your emotions."
+    },
+    {
+        "QuestionText": "I feel like I’m always running on empty. How can I refill my energy?",
+        "Topic": "energy",
+        "AnswerText": "Prioritize self-care and ensure you're getting enough rest. Engage in activities that recharge you, whether it's exercise, hobbies, or simply taking time to relax."
+    },
+    {
+        "QuestionText": "I feel like I’m not enough for others. How can I improve my relationships?",
+        "Topic": "relationships",
+        "AnswerText": "Be honest and open with those around you. Practice active listening and communicate your needs. Healthy relationships are built on mutual understanding and respect."
+    },
+    {
+        "QuestionText": "I feel stuck in my current job. How can I change careers?",
+        "Topic": "career change",
+        "AnswerText": "Start by identifying your strengths and interests. Consider gaining new skills through courses or workshops, and network with people in your desired field to explore opportunities."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by negative emotions. How can I manage my feelings better?",
+        "Topic": "emotional regulation",
+        "AnswerText": "Practice mindfulness and grounding techniques. Acknowledge your emotions without judgment, and take steps to express or release them through activities like journaling or talking to someone you trust."
+    },
+    {
+        "QuestionText": "I feel like I’m always anxious. How can I reduce anxiety?",
+        "Topic": "anxiety",
+        "AnswerText": "Try grounding techniques, deep breathing, or mindfulness practices. Regular physical activity and maintaining a balanced lifestyle can also help reduce anxiety over time."
+    },
+    {
+        "QuestionText": "I’m struggling with low energy. How can I boost my motivation?",
+        "Topic": "low energy",
+        "AnswerText": "Focus on small, achievable tasks and celebrate your progress. Regular exercise, proper sleep, and a healthy diet can also help improve energy levels over time."
+    },
+    {
+        "QuestionText": "I feel like I can’t handle my emotions. How can I gain better emotional control?",
+        "Topic": "emotional control",
+        "AnswerText": "Practice mindfulness and deep breathing to stay present. Recognize your emotions without judgment, and give yourself permission to feel without reacting impulsively."
+    },
+    {
+        "QuestionText": "I feel guilty all the time. How can I overcome guilt?",
+        "Topic": "guilt",
+        "AnswerText": "Reflect on the source of your guilt and evaluate whether it’s warranted. Practice self-forgiveness, and take actionable steps to make amends or improve the situation."
+    },
+    {
+        "QuestionText": "I feel disconnected from my friends. How can I reconnect?",
+        "Topic": "friendship",
+        "AnswerText": "Reach out to your friends, share how you're feeling, and make an effort to spend quality time together. Be open about your emotions, and allow space for vulnerability."
+    },
+    {
+        "QuestionText": "I feel like I’m not moving forward. How can I make progress?",
+        "Topic": "progress",
+        "AnswerText": "Break down your goals into small, achievable steps. Celebrate your successes, and focus on consistency. Don't be too hard on yourself if progress feels slow."
+    },
+    {
+        "QuestionText": "I feel like my anxiety is holding me back. How can I move past it?",
+        "Topic": "overcoming anxiety",
+        "AnswerText": "Start by acknowledging your anxiety without judgment. Gradually expose yourself to the situations that cause anxiety, and practice relaxation techniques to reduce its intensity."
+    },
+    {
+        "QuestionText": "I feel like I’m losing motivation at work. How can I get my spark back?",
+        "Topic": "work motivation",
+        "AnswerText": "Set new, meaningful goals and break them into manageable tasks. Seek feedback from colleagues and celebrate small wins. If necessary, talk to a supervisor about ways to rekindle your interest."
+    },
+    {
+        "QuestionText": "I feel like I’m not achieving anything. How can I improve my productivity?",
+        "Topic": "productivity",
+        "AnswerText": "Start by organizing tasks into smaller, manageable steps. Set clear, specific goals and prioritize them. Use time management techniques such as the Pomodoro method to stay focused."
+    },
+    {
+        "QuestionText": "I’m feeling down. How can I lift my spirits?",
+        "Topic": "mood improvement",
+        "AnswerText": "Try engaging in activities that bring you joy, such as spending time with loved ones, going for a walk, or practicing mindfulness. Small acts of self-care can also improve your mood."
+    },
+    {
+        "QuestionText": "I feel like I don’t belong. How can I find my sense of belonging?",
+        "Topic": "belonging",
+        "AnswerText": "Seek out communities that share your interests or values. Be open to forming new connections, and remember that belonging takes time and effort to cultivate."
+    },
+    {
+        "QuestionText": "I feel like I’m not living authentically. How can I live more true to myself?",
+        "Topic": "authenticity",
+        "AnswerText": "Reflect on your values and passions. Make small decisions aligned with your authentic self, and practice self-compassion as you let go of external pressures to conform."
+    },
+    {
+        "QuestionText": "I feel overwhelmed with social expectations. How can I handle this pressure?",
+        "Topic": "social pressure",
+        "AnswerText": "Recognize that you can't please everyone. Set boundaries, prioritize your well-being, and practice assertiveness to manage social expectations without compromising your values."
+    },
+    {
+        "QuestionText": "I feel trapped by my thoughts. How can I stop overthinking?",
+        "Topic": "overthinking",
+        "AnswerText": "Practice mindfulness and grounding techniques to stay present. Distract yourself with activities that engage your mind, and challenge negative thoughts when they arise."
+    },
+    {
+        "QuestionText": "I’m struggling with change. How can I adapt better?",
+        "Topic": "adaptation",
+        "AnswerText": "Give yourself time to process the change. Focus on what you can control, and be open to learning new ways of handling situations. Seek support from others during transitions."
+    },
+    {
+        "QuestionText": "I feel exhausted all the time. How can I regain my energy?",
+        "Topic": "energy",
+        "AnswerText": "Focus on improving your sleep routine, eat a balanced diet, and incorporate regular physical activity. Take breaks throughout the day to avoid burnout."
+    },
+    {
+        "QuestionText": "I feel overwhelmed by my emotions. How can I manage my feelings?",
+        "Topic": "emotional management",
+        "AnswerText": "Take deep breaths, practice mindfulness, and acknowledge your emotions without judgment. Journaling or talking to someone can also help you process your feelings."
+    },
+    {
+        "QuestionText": "I feel disconnected from myself. How can I reconnect?",
+        "Topic": "self-connection",
+        "AnswerText": "Spend time reflecting on your values, passions, and goals. Engage in activities that nourish your soul, and practice self-compassion as you explore your feelings."
+    },
+    {
+        "QuestionText": "I’m feeling anxious about the future. How can I handle uncertainty?",
+        "Topic": "uncertainty",
+        "AnswerText": "Focus on the present moment and take actionable steps toward your goals. Practice mindfulness and grounding techniques to reduce anxiety about the unknown."
+    },
+    {
+        "QuestionText": "I feel like I’m not good enough. How can I improve my self-esteem?",
+        "Topic": "self-esteem",
+        "AnswerText": "Practice self-compassion and focus on your strengths. Set realistic goals and celebrate your achievements. Surround yourself with people who uplift and support you."
+    },
+    {
+        "QuestionText": "I’m feeling lonely. How can I overcome loneliness?",
+        "Topic": "loneliness",
+        "AnswerText": "Reach out to friends or family, or consider joining social activities. Volunteering or participating in groups can help you connect with others and feel supported."
+    }
+
+
+]

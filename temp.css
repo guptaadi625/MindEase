@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#chat-log {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+#chat-form {
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    width: 70%;
+    height: 30px;
+    border-radius:50px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+}
+
+button[type="submit"] {
+    width: 20%;
+    height: 30px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #3e8e41;
+}
